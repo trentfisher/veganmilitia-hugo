@@ -1,0 +1,110 @@
+<?php
+# make the old wordpress urls go to the right place
+$pagemap = array(
+"3" => "what-did-he-mean-slow-of-mind"
+"5" => "the-big-question"
+"6" => "mine-mine-mine"
+"7" => "raise_alarm"
+"8" => "a-meat-by-any-other-name"
+"9" => "separate-but-equal"
+"12" => "a-nation-of-bicyclists"
+"14" => "the-first-symptom"
+"13" => "green-tyranny"
+"15" => "symbiosis"
+"36" => "thoughts-on-csas"
+"25" => "translation-traffic-or-ditch-take-your-pick"
+"49" => "musings-on-productivity"
+"59" => "gandhicon-three"
+"18" => "translation-mountain-bikes-only"
+"32" => "translation-buy-a-hummer"
+"77" => "translation-bicyclists-use-even-more-caution"
+"90" => "translation-dead-end"
+"115" => "worlds-newest-vegan"
+"124" => "annexing-the-sudetenland"
+"97" => "translation-remove-panniers-and-duck"
+"100" => "translation-for-your-next-trick-make-a-bicyclist-disappear"
+"104" => "translation-inhale-exhale"
+"107" => "translation-turn-right"
+"28" => "translation-thin-cyclists-only-beyond-this-point"
+"23" => "translation-prepare-to-lose-your-lane-twice"
+"148" => "site-moved-and-hopefully-resurrected"
+"171" => "error-messages"
+"146" => "eating-skippy"
+"198" => "these-are-great-mysteries"
+"150" => "scaring-users"
+"182" => "friendly-or-insulting"
+"156" => "could-you-be-more-vague-please"
+"222" => "born-again"
+"249" => "self-fulfilling-stereotype"
+"252" => "quantity-over-quality"
+"228" => "the-more-things-change"
+"262" => "defensive-omnivore-bingo"
+"163" => "aw-snap"
+"256" => "evangelizing"
+"277" => "ninety-percent-solution"
+"304" => "too-specific"
+"323" => "first-seeds"
+"356" => "yet-again"
+"349" => "was-failed"
+"167" => "what-part-of-0x80070057-dont-you-understand"
+"377" => "using-perforce-perforce"
+"395" => "repeat-what-i-just-said"
+"388" => "musings-about-hackerspaces"
+"325" => "slow-down-or-stop"
+"412" => "im-not-telling"
+"309" => "subverted-synchronization"
+"413" => "spam-spam-spam"
+"439" => "clearcase-a-eulogy"
+"448" => "silent-failure"
+"463" => "solving-problems-we-dont-have"
+"477" => "stupid-password-rules"
+"479" => "secret-codes"
+"502" => "it-takes-a-village"
+"511" => "apparently-the-us-is-pretty-selective-about-what-science-it-believes"
+"531" => "conflicts-of-interest-in-nutrition-research"
+"540" => "revisiting-open-source-social-networking-alternatives"
+"515" => "in-progress"
+"542" => "defensive-omnivore-bingo-on-github"
+"499" => "what-you-dont-want-to-hear"
+"555" => "genealogy"
+"537" => "see-logic-circular"
+"567" => "slavery-in-the-family"
+"485" => "three-things"
+"526" => "suicide-food"
+"603" => "law-and-order-new-netherlands"
+"611" => "descendants-of-liberty"
+"520" => "making-a-killing-with-this-argument"
+"209" => "too-much-error-handling"
+"472" => "a-case-study-banshee"
+"571" => "a-tragic-love-poem-waiting-to-happen"
+"642" => "the-vegan-book-of-permaculture"
+"639" => "the-most-human"
+"579" => "an-argument-so-tired-its-unconscious"
+"645" => "gardening-in-march"
+"234" => "an-oldie-but-a-goodie"
+"629" => "version-control-kool-aid"
+"663" => "clickbait-and-gandicon"
+"656" => "but-weasels-are-natural"
+"631" => "funny-spam"
+"660" => "the-lessons-of-technocracy"
+"605" => "retroactive-matriarchy"
+"677" => "i-b-m"
+"695" => "pick-a-different-two"
+);
+
+if ($_REQUEST['p'])
+{
+    header('Location: '. '../b2/'.$pagemap[$_REQUEST['p']],
+	   true, 301);
+}
+elsif ($_REQUEST['feed'])
+{
+    header('Location: '. '../b2/index.xml',
+	   true, 301);
+}
+else
+{
+    header('Location: '. '../b2/index.html',
+	   true, 301);
+}
+exit();

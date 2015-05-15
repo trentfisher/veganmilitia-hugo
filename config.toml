@@ -1,3 +1,23 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "http://veganmilitia.org/b2"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The Vegan Militia"
+theme = "hyde"
+
+[author]
+name = "trent"
+
+[params]
+description = "... because we're all made of meat!"
+#copyright = "Trent Fisher"
+
+[[menu.main]]
+    name = "About us"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "Bingo"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "../bingo/"
