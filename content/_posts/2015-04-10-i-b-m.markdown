@@ -1,0 +1,17 @@
+---
+author: trent
+comments: true
+date: 2015-04-10 05:31:08+00:00
+layout: post
+slug: i-b-m
+title: I B.M.
+wordpress_id: 677
+---
+
+IBM comes through again!  It's bad enough they replaced the ClearCase installer with their "Installation Manager" (a classic failure to follow the adage "if it ain't broke, don't fix it").  But now we get error messages like this:
+
+    
+    The Installc executable launcher was unable to locate its companion shared library.
+
+
+Very helpful.  We don't know what library it was looking for, or where it was looking.  Of course, I guess I should be thankful, as it is unusual to even get error messages from the Installation Manager.

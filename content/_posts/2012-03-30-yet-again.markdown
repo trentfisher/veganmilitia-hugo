@@ -1,0 +1,13 @@
+---
+author: trent
+comments: true
+date: 2012-03-30 00:54:29+00:00
+layout: post
+slug: yet-again
+title: Yet again
+wordpress_id: 356
+tags:
+- administrivia
+---
+
+This seems to keep happening to me:  I get caught up in a lot of other things in life and never quite get around to my blog. Then after a year or so of inactivity, I suddenly remember it, update the software (now running trunk!) and start posting again.   Let's see how long I can keep it going this time.  I've got a bunch of mostly written drafts in the queue so expect them soon.
