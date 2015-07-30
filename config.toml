@@ -11,13 +11,7 @@ description = "... because we're all made of meat!"
 #copyright = "Trent Fisher"
 
 [[menu.main]]
-    name = "About us"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about/"
-[[menu.main]]
     name = "Bingo"
     pre = "<i class='fa fa-road'></i>"
-    weight = -100
+    weight = 100
     url = "../bingo/"
