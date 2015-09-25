@@ -1,0 +1,32 @@
+#!/bin/sh
+#
+# move a draft to published post, to be posted on a given date
+#
+if date +%F --date $1 > /dev/null 2>&1
+then
+    pubdate=$1; shift;
+else
+    pubdate=now
+fi
+
+for draft in $*
+do
+    test -f $draft || draft=content/drafts/$draft
+    test -f $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
+
+    pubfile=content/post/`date +%F --date $pubdate`-`basename $draft`
+    # hugo is fussy about timezone spec
+    pubdateiso=`date +%FT%T%:z --date $pubdate`
+    echo "Publishing to $pubfile"
+
+    # remove draft setting
+    # insert/change both date and published date to be the same
+    # rename the file from drafts to posts
+    (
+	echo 'draft = "false"'
+	echo 'date = "'$pubdateiso'"'
+	echo 'publishdate = "'$pubdateiso'"'
+	cat $draft) | perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > $pubfile
+    mv $draft `dirname $draft`/.`basename $draft`
+done
+
