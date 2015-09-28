@@ -15,6 +15,7 @@ do
     test -f $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
 
     pubfile=content/post/`date +%F --date $pubdate`-`basename $draft`
+    pubdir=content/post/`date +%F --date $pubdate`-`basename $draft .md`
     # hugo is fussy about timezone spec
     pubdateiso=`date +%FT%T%:z --date $pubdate`
     echo "Publishing to $pubfile"
@@ -28,5 +29,6 @@ do
 	echo 'publishdate = "'$pubdateiso'"'
 	cat $draft) | perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > $pubfile
     mv $draft `dirname $draft`/.`basename $draft`
+    mv `dirname $draft`/`basename $draft .md` $pubdir
 done
 
