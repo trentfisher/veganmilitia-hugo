@@ -9,8 +9,8 @@ title = "Firsthand Knowledge"
 
 +++
 
-On a certain genealogy site I found this listed under sources:
+In my experience, it is pretty rare to find genealogical information on the internet with any source citations at all.  But on one site (which shall remain nameless), I actually found a source listed!
 
      Wilfred ***, firsthand knowledge. ...  Entered by Wilfred ***, Jun 21, 2012
 
-Considering the page is about someone who lived in the mid 18th century, it seems unlikely Wilfred has actual "firsthand knowledge"; not unless he's invented a time machine!  I think lawyers would call this "hearsay" and judges would call it inadmissible.
+Considering the page is about someone who lived in the mid 18th century, it seems unlikely Wilfred has actual "firsthand knowledge"; not unless he's immortal or has invented a time machine!
