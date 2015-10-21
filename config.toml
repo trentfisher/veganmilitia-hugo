@@ -8,7 +8,7 @@ name = "trent"
 
 [params]
 description = "... because we're all made of meat!"
-#copyright = "Trent Fisher"
+copyright = ""
 
 [[menu.main]]
     name = "Bingo"
