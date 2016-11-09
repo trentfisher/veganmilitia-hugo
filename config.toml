@@ -1,15 +1,59 @@
 baseurl = "http://veganmilitia.org/b2"
 languageCode = "en-us"
 title = "The Vegan Militia"
-theme = "hyde"
+theme = "blackburn"
+copyright = "&copy; 2016. All rights reserved."
+canonifyurls = true
+paginate = 10
 
 [author]
-name = "trent"
+  name = "trent"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
 
 [params]
-description = "... because we're all made of meat!"
-copyright = ""
+  #description = "... because we're all made of meat!"
+  #copyright = ""
+  # Shown in the home page
+  subtitle = "... because we're all made of meat!"
+  brand = "Vegan Militia"
+  googleAnalytics = "UA-45576799-1"
+  disqus = "veganmilitia"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+#  custom_css = ["css/my.css"]
+#  custom_js = ["js/my.js"]
 
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/about/"
+    
 [[menu.main]]
     name = "Bingo"
     pre = "<i class='fa fa-road'></i>"
