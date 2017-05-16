@@ -13,5 +13,8 @@ upload: generate
 generate:
 	hugo
 
+theme:
+	git clone https://github.com/yoshiharuyamashita/blackburn.git
+
 # notes:
 #  new post:  hugo new post/foo.md
