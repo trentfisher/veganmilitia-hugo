@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2011-01-08 18:13:48+00:00
-layout: post
-slug: ninety-percent-solution
+#layout: post
+#layout: post
+#slug: ninety-percent-solution
 title: Ninety percent solution
 wordpress_id: 277
 categories:

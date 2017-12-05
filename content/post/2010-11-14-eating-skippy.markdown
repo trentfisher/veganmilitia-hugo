@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-14 03:11:25+00:00
-layout: post
-slug: eating-skippy
+#layout: post
+#layout: post
+#slug: eating-skippy
 title: Eating Skippy?
 wordpress_id: 146
 categories:

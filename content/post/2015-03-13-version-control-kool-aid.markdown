@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-13 05:51:35+00:00
-layout: post
-slug: version-control-kool-aid
+#layout: post
+#layout: post
+#slug: version-control-kool-aid
 title: Version Control Kool-Aid
 wordpress_id: 629
 categories:

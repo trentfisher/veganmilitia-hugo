@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-03-30 00:54:29+00:00
-layout: post
-slug: yet-again
+#layout: post
+#layout: post
+#slug: yet-again
 title: Yet again
 wordpress_id: 356
 tags:

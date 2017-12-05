@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-06 04:43:37+00:00
-layout: post
-slug: translation-traffic-or-ditch-take-your-pick
+#layout: post
+#layout: post
+#slug: translation-traffic-or-ditch-take-your-pick
 title: 'Translation: Traffic or Ditch, Take Your Pick'
 wordpress_id: 25
 categories:

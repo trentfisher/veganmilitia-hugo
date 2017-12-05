@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-10 00:19:13+00:00
-layout: post
-slug: what-you-dont-want-to-hear
+#layout: post
+#layout: post
+#slug: what-you-dont-want-to-hear
 title: What you don't want to hear
 wordpress_id: 499
 categories:

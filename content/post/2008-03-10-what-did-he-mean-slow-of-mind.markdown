@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-03-10 05:20:04+00:00
-layout: post
-slug: what-did-he-mean-slow-of-mind
+#layout: post
+#layout: post
+#slug: what-did-he-mean-slow-of-mind
 title: What did he mean "slow of mind"?
 wordpress_id: 3
 ---

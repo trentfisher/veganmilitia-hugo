@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-30 05:39:09+00:00
-layout: post
-slug: the-lessons-of-technocracy
+#layout: post
+#layout: post
+#slug: the-lessons-of-technocracy
 title: The Lessons of Technocracy
 wordpress_id: 660
 categories:

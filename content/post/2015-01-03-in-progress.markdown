@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-03 00:13:53+00:00
-layout: post
-slug: in-progress
+#layout: post
+#layout: post
+#slug: in-progress
 title: In progress
 wordpress_id: 515
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-05-30 14:21:14+00:00
-layout: post
-slug: musings-about-hackerspaces
+#layout: post
+#layout: post
+#slug: musings-about-hackerspaces
 title: Musings about Hackerspaces
 wordpress_id: 388
 categories:

@@ -2,10 +2,10 @@
 author: trent
 comments: false
 date: 2015-04-23 10:54:46+00:00
-layout: post
-slug: pick-a-different-two
+#layout: post
+#slug: pick-a-different-two
 title: Pick a Different Two
-wordpress_id: 695
+#wordpress_id: 695
 categories:
 - programming
 tags:

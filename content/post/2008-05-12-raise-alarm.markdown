@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-05-12 04:24:50+00:00
-layout: post
-slug: 'raise_alarm'
+#layout: post
+#layout: post
+#slug: 'raise_alarm'
 title: Raise Alarm
 wordpress_id: 7
 categories:

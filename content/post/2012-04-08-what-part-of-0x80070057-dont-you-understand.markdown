@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-04-08 12:42:30+00:00
-layout: post
-slug: what-part-of-0x80070057-dont-you-understand
+#layout: post
+#layout: post
+#slug: what-part-of-0x80070057-dont-you-understand
 title: What part of 0x80070057 don't you understand?
 wordpress_id: 167
 categories:

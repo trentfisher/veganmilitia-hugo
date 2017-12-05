@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-11 13:33:44+00:00
-layout: post
-slug: the-more-things-change
+#layout: post
+#layout: post
+#slug: the-more-things-change
 title: The more things change...
 wordpress_id: 228
 categories:

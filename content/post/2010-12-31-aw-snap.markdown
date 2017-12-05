@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-31 17:55:55+00:00
-layout: post
-slug: aw-snap
+#layout: post
+#layout: post
+#slug: aw-snap
 title: Aw, snap!
 wordpress_id: 163
 categories:

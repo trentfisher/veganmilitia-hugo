@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-10-31 03:29:20+00:00
-layout: post
-slug: silent-failure
+#layout: post
+#layout: post
+#slug: silent-failure
 title: Silent failure
 wordpress_id: 448
 categories:

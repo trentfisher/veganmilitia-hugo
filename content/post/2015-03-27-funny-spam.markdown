@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-27 05:16:05+00:00
-layout: post
-slug: funny-spam
+#layout: post
+#layout: post
+#slug: funny-spam
 title: Funny Spam
 wordpress_id: 631
 categories:

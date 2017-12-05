@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-18 16:45:21+00:00
-layout: post
-slug: clickbait-and-gandicon
+#layout: post
+#layout: post
+#slug: clickbait-and-gandicon
 title: Clickbait and Gandhicon
 wordpress_id: 663
 categories:

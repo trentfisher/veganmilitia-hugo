@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-21 14:00:50+00:00
-layout: post
-slug: translation-prepare-to-lose-your-lane-twice
+#layout: post
+#layout: post
+#slug: translation-prepare-to-lose-your-lane-twice
 title: 'Translation: Prepare to lose your lane... twice!'
 wordpress_id: 23
 categories:

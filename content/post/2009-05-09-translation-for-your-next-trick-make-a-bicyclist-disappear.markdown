@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-09 14:00:15+00:00
-layout: post
-slug: translation-for-your-next-trick-make-a-bicyclist-disappear
+#layout: post
+#layout: post
+#slug: translation-for-your-next-trick-make-a-bicyclist-disappear
 title: 'Translation: For your next trick, make a bicyclist disappear!'
 wordpress_id: 100
 categories:

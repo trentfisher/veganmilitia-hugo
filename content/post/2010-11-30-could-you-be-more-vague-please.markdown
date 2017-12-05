@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-30 19:47:20+00:00
-layout: post
-slug: could-you-be-more-vague-please
+#layout: post
+#layout: post
+#slug: could-you-be-more-vague-please
 title: Could you be more vague, please?
 wordpress_id: 156
 categories:

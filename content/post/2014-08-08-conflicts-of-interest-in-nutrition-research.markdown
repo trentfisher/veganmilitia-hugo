@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2014-08-08 14:39:01+00:00
-layout: post
-slug: conflicts-of-interest-in-nutrition-research
+#layout: post
+#layout: post
+#slug: conflicts-of-interest-in-nutrition-research
 title: 'Conflicts of interest in nutrition research:'
 wordpress_id: 531
 categories:

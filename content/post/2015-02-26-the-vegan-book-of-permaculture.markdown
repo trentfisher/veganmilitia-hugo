@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-26 05:30:02+00:00
-layout: post
-slug: the-vegan-book-of-permaculture
+#layout: post
+#layout: post
+#slug: the-vegan-book-of-permaculture
 title: The Vegan Book of Permaculture
 wordpress_id: 642
 categories:

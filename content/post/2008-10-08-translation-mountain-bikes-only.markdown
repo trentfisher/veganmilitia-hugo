@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-08 20:08:31+00:00
-layout: post
-slug: translation-mountain-bikes-only
+#layout: post
+#layout: post
+#slug: translation-mountain-bikes-only
 title: 'Translation: "mountain bikes only"'
 wordpress_id: 18
 categories:

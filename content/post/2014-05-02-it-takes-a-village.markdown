@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2014-05-02 14:34:19+00:00
-layout: post
-slug: it-takes-a-village
+#layout: post
+#layout: post
+#slug: it-takes-a-village
 title: It takes a village
 wordpress_id: 502
 ---

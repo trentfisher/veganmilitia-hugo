@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-08-04 19:38:47+00:00
-layout: post
-slug: symbiosis
+#layout: post
+#layout: post
+#slug: symbiosis
 title: Symbiosis?
 wordpress_id: 15
 categories:

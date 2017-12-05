@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-06 04:22:57+00:00
-layout: post
-slug: making-a-killing-with-this-argument
+#layout: post
+#layout: post
+#slug: making-a-killing-with-this-argument
 title: Making a killing with this argument
 wordpress_id: 520
 categories:

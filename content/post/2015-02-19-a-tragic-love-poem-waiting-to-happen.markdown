@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-19 09:41:30+00:00
-layout: post
-slug: a-tragic-love-poem-waiting-to-happen
+#layout: post
+#layout: post
+#slug: a-tragic-love-poem-waiting-to-happen
 title: A tragic love poem waiting to happen
 wordpress_id: 571
 categories:

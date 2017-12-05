@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-05-29 23:20:02+00:00
-layout: post
-slug: repeat-what-i-just-said
+#layout: post
+#layout: post
+#slug: repeat-what-i-just-said
 title: Repeat what I just said
 wordpress_id: 395
 categories:

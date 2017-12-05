@@ -13,7 +13,7 @@ I have a clear memory of being singled out by my 5th grade teacher as being the 
 
 Doing genealogical research can suddenly make you appreciate good penmanship.  The old census records, passenger lists, birth records, etc. are rife with illegible scrawls.  I would suggest that children be forced to decipher some of these records in order to appreciate why legibility matters.  Laughable examples can help as well.  For example, Oliver Ames should have paid closer attention, especially to making sure an "m" doesn't look like an "n" and an "e" doesn't look like the second half of a "u":
 
-![Ames or Anus](/b2/post/2015-10-30-penmanship/oliver-anus.png)
+![Ames or Anus](/post/2015-10-30-penmanship/oliver-anus.png)
 
 The moral of the story is to make sure your handwriting is legible or you might make an ass of yourself.
 

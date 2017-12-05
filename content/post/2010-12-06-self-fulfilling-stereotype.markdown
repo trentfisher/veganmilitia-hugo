@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-06 14:50:13+00:00
-layout: post
-slug: self-fulfilling-stereotype
+#layout: post
+#layout: post
+#slug: self-fulfilling-stereotype
 title: Self-fulfilling stereotype
 wordpress_id: 249
 categories:

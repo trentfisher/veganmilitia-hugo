@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-11-06 17:36:35+00:00
-layout: post
-slug: worlds-newest-vegan
+#layout: post
+#layout: post
+#slug: worlds-newest-vegan
 title: World's Newest Vegan
 wordpress_id: 115
 categories:

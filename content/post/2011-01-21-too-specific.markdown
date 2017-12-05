@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2011-01-21 12:47:44+00:00
-layout: post
-slug: too-specific
+#layout: post
+#layout: post
+#slug: too-specific
 title: Too Specific
 wordpress_id: 304
 categories:

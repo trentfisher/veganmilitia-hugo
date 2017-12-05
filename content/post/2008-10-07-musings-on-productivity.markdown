@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-07 19:08:41+00:00
-layout: post
-slug: musings-on-productivity
+#layout: post
+#layout: post
+#slug: musings-on-productivity
 title: Musings on "productivity"
 wordpress_id: 49
 ---

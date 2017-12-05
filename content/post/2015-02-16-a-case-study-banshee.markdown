@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-16 04:57:24+00:00
-layout: post
-slug: a-case-study-banshee
+#layout: post
+#layout: post
+#slug: a-case-study-banshee
 title: 'A Case Study: Banshee'
 wordpress_id: 472
 categories:

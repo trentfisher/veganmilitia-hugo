@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-02 01:41:11+00:00
-layout: post
-slug: born-again
+#layout: post
+#layout: post
+#slug: born-again
 title: Born Again?
 wordpress_id: 222
 categories:

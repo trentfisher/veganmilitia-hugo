@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2013-10-08 14:05:08+00:00
-layout: post
-slug: solving-problems-we-dont-have
+#layout: post
+#layout: post
+#slug: solving-problems-we-dont-have
 title: Solving Problems We Don't Have
 wordpress_id: 463
 tags:

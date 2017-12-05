@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-12 02:56:14+00:00
-layout: post
-slug: translation-buy-a-hummer
+#layout: post
+#layout: post
+#slug: translation-buy-a-hummer
 title: 'Translation: Buy a Hummer!'
 wordpress_id: 32
 categories:

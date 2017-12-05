@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-17 09:55:53+00:00
-layout: post
-slug: genealogy
+#layout: post
+#layout: post
+#slug: genealogy
 title: Genealogy
 wordpress_id: 555
 categories:

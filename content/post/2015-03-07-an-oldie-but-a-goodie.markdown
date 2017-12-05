@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-07 02:44:26+00:00
-layout: post
-slug: an-oldie-but-a-goodie
+#layout: post
+#layout: post
+#slug: an-oldie-but-a-goodie
 title: Guess again
 wordpress_id: 234
 categories:

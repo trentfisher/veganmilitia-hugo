@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-04-03 05:04:08+00:00
-layout: post
-slug: retroactive-matriarchy
+#layout: post
+#layout: post
+#slug: retroactive-matriarchy
 title: Retroactive matriarchy
 wordpress_id: 605
 categories:

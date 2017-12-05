@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-08-03 20:45:38+00:00
-layout: post
-slug: green-tyranny
+#layout: post
+#layout: post
+#slug: green-tyranny
 title: Green Tyranny?
 wordpress_id: 13
 categories:

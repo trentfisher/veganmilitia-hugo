@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-07-24 22:15:35+00:00
-layout: post
-slug: the-first-symptom
+#layout: post
+#layout: post
+#slug: the-first-symptom
 title: The First Symptom
 wordpress_id: 14
 categories:

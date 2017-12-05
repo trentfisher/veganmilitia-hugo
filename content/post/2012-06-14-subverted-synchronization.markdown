@@ -2,8 +2,9 @@
 author: trent
 comments: false
 date: 2012-06-14 03:25:03+00:00
-layout: post
-slug: subverted-synchronization
+#layout: post
+#layout: post
+#slug: subverted-synchronization
 title: Subverted synchronization
 wordpress_id: 309
 categories:

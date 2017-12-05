@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-04-27 14:49:58+00:00
-layout: post
-slug: using-perforce-perforce
+#layout: post
+#layout: post
+#slug: using-perforce-perforce
 title: Using Perforce, perforce
 wordpress_id: 377
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2014-05-13 03:26:27+00:00
-layout: post
-slug: apparently-the-us-is-pretty-selective-about-what-science-it-believes
+#layout: post
+#layout: post
+#slug: apparently-the-us-is-pretty-selective-about-what-science-it-believes
 title: Apparently The US Is Pretty Selective About What Science it Believes
 wordpress_id: 511
 categories:

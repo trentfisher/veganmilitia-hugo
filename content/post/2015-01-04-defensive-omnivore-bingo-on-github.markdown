@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-04 17:14:23+00:00
-layout: post
-slug: defensive-omnivore-bingo-on-github
+#layout: post
+#layout: post
+#slug: defensive-omnivore-bingo-on-github
 title: Defensive omnivore bingo on GitHub
 wordpress_id: 542
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-19 09:04:41+00:00
-layout: post
-slug: slavery-in-the-family
+#layout: post
+#layout: post
+#slug: slavery-in-the-family
 title: Slavery in the family
 wordpress_id: 567
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-28 02:21:42+00:00
-layout: post
-slug: the-most-human
+#layout: post
+#layout: post
+#slug: the-most-human
 title: The most... human
 wordpress_id: 639
 categories:

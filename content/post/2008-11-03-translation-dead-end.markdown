@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-11-03 05:15:08+00:00
-layout: post
-slug: translation-dead-end
+#layout: post
+#layout: post
+#slug: translation-dead-end
 title: 'Translation: Dead End?'
 wordpress_id: 90
 categories:

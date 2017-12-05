@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-09 20:39:46+00:00
-layout: post
-slug: quantity-over-quality
+#layout: post
+#layout: post
+#slug: quantity-over-quality
 title: Quantity over Quality
 wordpress_id: 252
 categories:

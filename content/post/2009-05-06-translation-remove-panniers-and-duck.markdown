@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-06 14:00:43+00:00
-layout: post
-slug: translation-remove-panniers-and-duck
+#layout: post
+#layout: post
+#slug: translation-remove-panniers-and-duck
 title: 'Translation: Remove Panniers and Duck!'
 wordpress_id: 97
 tags:

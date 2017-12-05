@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2013-12-02 13:38:23+00:00
-layout: post
-slug: stupid-password-rules
+#layout: post
+#layout: post
+#slug: stupid-password-rules
 title: Stupid Password Rules
 wordpress_id: 477
 ---

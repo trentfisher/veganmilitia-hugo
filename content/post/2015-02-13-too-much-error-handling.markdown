@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-13 22:15:48+00:00
-layout: post
-slug: too-much-error-handling
+#layout: post
+#layout: post
+#slug: too-much-error-handling
 title: Too much error handling?
 wordpress_id: 209
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-08 04:27:18+00:00
-layout: post
-slug: gandhicon-three
+#layout: post
+#layout: post
+#slug: gandhicon-three
 title: Gandhicon Three?
 wordpress_id: 59
 categories:

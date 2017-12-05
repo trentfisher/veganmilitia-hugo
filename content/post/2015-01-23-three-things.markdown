@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-23 20:21:09+00:00
-layout: post
-slug: three-things
+#layout: post
+#layout: post
+#slug: three-things
 title: Three things
 wordpress_id: 485
 categories:

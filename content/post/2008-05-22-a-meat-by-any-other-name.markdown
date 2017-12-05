@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-05-22 00:09:39+00:00
-layout: post
-slug: a-meat-by-any-other-name
+#layout: post
+#layout: post
+#slug: a-meat-by-any-other-name
 title: A meat by any other name...
 wordpress_id: 8
 categories:

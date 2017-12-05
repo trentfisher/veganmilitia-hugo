@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-07-03 14:41:43+00:00
-layout: post
-slug: separate-but-equal
+#layout: post
+#layout: post
+#slug: separate-but-equal
 title: Separate but Equal?
 wordpress_id: 9
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-04-10 05:31:08+00:00
-layout: post
-slug: i-b-m
+#layout: post
+#layout: post
+#slug: i-b-m
 title: I B.M.
 wordpress_id: 677
 ---

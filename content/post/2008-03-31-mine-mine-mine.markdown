@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-03-31 22:49:02+00:00
-layout: post
-slug: mine-mine-mine
+#layout: post
+#layout: post
+#slug: mine-mine-mine
 title: Mine, Mine, Mine!
 wordpress_id: 6
 ---

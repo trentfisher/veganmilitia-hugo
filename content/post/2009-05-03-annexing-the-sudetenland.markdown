@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-03 21:44:33+00:00
-layout: post
-slug: annexing-the-sudetenland
+#layout: post
+#layout: post
+#slug: annexing-the-sudetenland
 title: Annexing the Sudetenland
 wordpress_id: 124
 categories:

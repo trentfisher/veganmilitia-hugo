@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-10-06 04:31:25+00:00
-layout: post
-slug: thoughts-on-csas
+#layout: post
+#layout: post
+#slug: thoughts-on-csas
 title: Thoughts on CSAs
 wordpress_id: 36
 categories:

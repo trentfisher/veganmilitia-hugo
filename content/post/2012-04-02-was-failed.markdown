@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-04-02 03:23:03+00:00
-layout: post
-slug: was-failed
+#layout: post
+#layout: post
+#slug: was-failed
 title: Was failed?
 wordpress_id: 349
 categories:

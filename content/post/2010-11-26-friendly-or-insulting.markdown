@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-26 12:57:33+00:00
-layout: post
-slug: friendly-or-insulting
+#layout: post
+#layout: post
+#slug: friendly-or-insulting
 title: Friendly or insulting?
 wordpress_id: 182
 categories:

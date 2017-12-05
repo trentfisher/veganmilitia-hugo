@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-11 03:32:06+00:00
-layout: post
-slug: site-moved-and-hopefully-resurrected
+#layout: post
+#layout: post
+#slug: site-moved-and-hopefully-resurrected
 title: Site moved and hopefully resurrected
 wordpress_id: 148
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2011-02-27 14:31:29+00:00
-layout: post
-slug: first-seeds
+#layout: post
+#layout: post
+#slug: first-seeds
 title: First seeds!
 wordpress_id: 323
 categories:

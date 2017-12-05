@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-17 12:14:45+00:00
-layout: post
-slug: these-are-great-mysteries
+#layout: post
+#layout: post
+#slug: these-are-great-mysteries
 title: These are great mysteries
 wordpress_id: 198
 categories:

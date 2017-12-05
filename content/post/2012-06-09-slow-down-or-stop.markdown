@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-06-09 04:56:40+00:00
-layout: post
-slug: slow-down-or-stop
+#layout: post
+#layout: post
+#slug: slow-down-or-stop
 title: Slow down or stop?
 wordpress_id: 325
 categories:

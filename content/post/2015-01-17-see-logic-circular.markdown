@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-17 00:26:22+00:00
-layout: post
-slug: see-logic-circular
+#layout: post
+#layout: post
+#slug: see-logic-circular
 title: See logic, circular
 wordpress_id: 537
 categories:

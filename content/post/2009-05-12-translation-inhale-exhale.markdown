@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-12 14:00:04+00:00
-layout: post
-slug: translation-inhale-exhale
+#layout: post
+#layout: post
+#slug: translation-inhale-exhale
 title: 'Translation:  Inhale!  Exhale!'
 wordpress_id: 104
 categories:

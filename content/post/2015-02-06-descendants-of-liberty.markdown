@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-02-06 09:14:40+00:00
-layout: post
-slug: descendants-of-liberty
+#layout: post
+#layout: post
+#slug: descendants-of-liberty
 title: Descendants of Liberty
 wordpress_id: 611
 categories:

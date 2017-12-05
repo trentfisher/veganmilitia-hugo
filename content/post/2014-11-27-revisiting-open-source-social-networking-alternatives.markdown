@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2014-11-27 05:57:43+00:00
-layout: post
-slug: revisiting-open-source-social-networking-alternatives
+#layout: post
+#layout: post
+#slug: revisiting-open-source-social-networking-alternatives
 title: Revisiting Open Source Social Networking Alternatives
 wordpress_id: 540
 categories:

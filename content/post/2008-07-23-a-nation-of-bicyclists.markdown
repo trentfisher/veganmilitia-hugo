@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2008-07-23 18:34:38+00:00
-layout: post
-slug: a-nation-of-bicyclists
+#layout: post
+#layout: post
+#slug: a-nation-of-bicyclists
 title: A Nation of Bicyclists?
 wordpress_id: 12
 categories:

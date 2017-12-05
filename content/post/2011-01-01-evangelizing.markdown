@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2011-01-01 00:44:44+00:00
-layout: post
-slug: evangelizing
+#layout: post
+#layout: post
+#slug: evangelizing
 title: Evangelizing
 wordpress_id: 256
 categories:

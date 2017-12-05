@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-15 14:00:45+00:00
-layout: post
-slug: translation-turn-right
+#layout: post
+#layout: post
+#slug: translation-turn-right
 title: 'Translation:  Turn Right!'
 wordpress_id: 107
 categories:

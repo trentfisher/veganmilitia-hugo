@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2012-06-17 03:28:45+00:00
-layout: post
-slug: spam-spam-spam
+#layout: post
+#layout: post
+#slug: spam-spam-spam
 title: Spam, spam, spam...
 wordpress_id: 413
 tags:

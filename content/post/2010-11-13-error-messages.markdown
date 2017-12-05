@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-11-13 17:45:23+00:00
-layout: post
-slug: error-messages
+#layout: post
+#layout: post
+#slug: error-messages
 title: Error messages
 wordpress_id: 171
 categories:

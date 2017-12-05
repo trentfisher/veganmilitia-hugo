@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2010-12-15 14:25:54+00:00
-layout: post
-slug: defensive-omnivore-bingo
+#layout: post
+#layout: post
+#slug: defensive-omnivore-bingo
 title: Defensive Omnivore Bingo
 wordpress_id: 262
 categories:

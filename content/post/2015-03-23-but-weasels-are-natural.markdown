@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-03-23 06:02:01+00:00
-layout: post
-slug: but-weasels-are-natural
+#layout: post
+#layout: post
+#slug: but-weasels-are-natural
 title: But Weasels are Natural!
 wordpress_id: 656
 ---

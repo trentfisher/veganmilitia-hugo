@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2015-01-30 00:09:48+00:00
-layout: post
-slug: suicide-food
+#layout: post
+#layout: post
+#slug: suicide-food
 title: Suicide Food
 wordpress_id: 526
 categories:

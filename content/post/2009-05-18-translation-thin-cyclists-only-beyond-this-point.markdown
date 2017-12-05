@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2009-05-18 14:00:27+00:00
-layout: post
-slug: translation-thin-cyclists-only-beyond-this-point
+#layout: post
+#layout: post
+#slug: translation-thin-cyclists-only-beyond-this-point
 title: 'Translation:  Thin cyclists only, beyond this point'
 wordpress_id: 28
 categories:

@@ -2,8 +2,9 @@
 author: trent
 comments: true
 date: 2014-01-09 20:44:06+00:00
-layout: post
-slug: secret-codes
+#layout: post
+#layout: post
+#slug: secret-codes
 title: Secret codes
 wordpress_id: 479
 ---
