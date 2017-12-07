@@ -2,7 +2,8 @@ baseurl = "http://veganmilitia.org/b2"
 languageCode = "en-us"
 title = "The Vegan Militia"
 theme = "blackburn"
-copyright = "&copy; 2016. All rights reserved."
+staticDir="static"
+copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
 
@@ -18,9 +19,10 @@ paginate = 10
   #copyright = ""
   # Shown in the home page
   subtitle = "... because we're all made of meat!"
-  brand = "Vegan Militia"
+  brand = "<img src='/logob.png' /><br/>Vegan Militia"
   googleAnalytics = "UA-45576799-1"
   disqus = "veganmilitia"
+  disqusShortname = "veganmilitia"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
@@ -29,33 +31,48 @@ paginate = 10
 #  custom_css = ["css/my.css"]
 #  custom_js = ["js/my.js"]
 
-[[menu.main]]
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+# menu.main in blackburn, menu.sidebar in bootstrap4
+[[menu.sidebar]]
     name = "Home"
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 0
     identifier = "home"
     url = "/"
-  [[menu.main]]
+  [[menu.sidebar]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 1
     identifier = "post"
     url = "/post/"
-  [[menu.main]]
+  [[menu.sidebar]]
     name = "Tags"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 1
     identifier = "tags"
     url = "/tags/"
-  [[menu.main]]
+  [[menu.sidebar]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
     weight = 2
     identifier = "about"
     url = "/about/about/"
-    
-[[menu.main]]
+   
+[[menu.sidebar]]
     name = "Bingo"
     pre = "<i class='fa fa-road'></i>"
     weight = 100
     url = "../bingo/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "trent@cs.pdx.edu"
+  facebook = "trent.a.fisher@gmail.com"
+#  instagram = "*"
+  github = "trentfisher"
+  stackoverflow = "trent"
+  linkedin = "trent@cs.pdx.edu"
