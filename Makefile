@@ -2,11 +2,17 @@
 # theoretically anything I want to do with the site
 # can be done via targets in here
 
-HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz
+HUGOVER=0.31.1
+ifeq ($(shell uname -p),i686)
+HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v$(HUGOVER)/hugo_$(HUGOVER)_Linux-32bit.tar.gz
+else
+HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v$(HUGOVER)/hugo_$(HUGOVER)_Linux-64bit.tar.gz
+endif
+
 $(notdir $(HUGO_DL)):
 	wget $(HUGO_DL)
 hugo: $(notdir $(HUGO_DL))
-	tar xvzf hugo_0.31.1_Linux-64bit.tar.gz hugo
+	tar xvzf $< hugo
 	chmod a+x hugo
 
 serve:

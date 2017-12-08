@@ -1,4 +1,5 @@
 title = "The Vegan Militia"
+#baseurl = "/b2"
 theme = "hugo-xmin"
 copyright = "&copy; 2017. All rights reserved."
 
