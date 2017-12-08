@@ -1,0 +1,49 @@
+title = "The Vegan Militia"
+theme = "hugo-xmin"
+copyright = "&copy; 2017. All rights reserved."
+
+googleAnalytics = "UA-45576799-1"
+disqusShortname = "veganmilitia"
+relativeurls = true
+canonifyurls = true
+paginate = 10
+enableGitInfo = true
+enableRobotsTXT = true
+
+[params]
+  DateForm = "2-Jan-2006"
+  Description = "... because we are all made out of meat!"
+  Author = "trent"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    page = "/page/:slug"
+#    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/page/about.html"
+    weight = 2
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+
+[params.social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "trent@cs.pdx.edu"
+  facebook = "trent.a.fisher@gmail.com"
+#  instagram = "*"
+  github = "trentfisher"
+  stackoverflow = "trent"
+  linkedin = "trent@cs.pdx.edu"
+
