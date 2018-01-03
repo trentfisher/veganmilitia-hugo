@@ -1,0 +1,43 @@
+* Blog notes
+** usage notes
+how to make hugo do what I want
+*** put images next to post
+for example:
+./content/post/2015-10-30-penmanship.md
+./content/post/2015-10-30-penmanship/oliver-anus.png
+ends up generated like so:
+./public/post/2015-10-30-penmanship/index.html
+./public/2015/10/the-importance-of-penmanship/index.html
+./public/post/2015-10-30-penmanship/oliver-anus.png
+
+looks like this is a known, and long standing, problem
+https://github.com/gohugoio/hugo/issues/1240
+*** tag cloud
+few themes seem to do this
+may have to cook it up myself
+https://gist.github.com/mvodep/778089128dd19639cc6e1cf5b204d468
+https://discourse.gohugo.io/t/weighted-tag-cloud/3491/7
+** themes
+|                           | resp | dq | tags | size |
+|---------------------------+------+----+------+------|
+| blackburn                 |      |    |      |      |
+| bootstrap4-blog           |      |    |      |      |
+| hyde                      |      |    |      |      |
+| startbootstrap-clean-blog |      |    |      |      |
+| kiss                      | x    | x  | x    | sm   |
+| xss                       |      |    |      |      |
+
+measure size
+
+for i in themes/*; do echo ./hugo -t $(basename $i) -d public.$(basename $i); done
+3.4M	public.blackburn
+5.4M	public.bootstrap4-blog
+2.2M	public.hugo-classic
+3.4M	public.hugo-theme-nix
+2.1M	public.hugo-xmin
+2.4M	public.hyde
+4.5M	public.kiss
+1.4M	public.startbootstrap-clean-blog
+last one bombed
+
+** Topics/ideas
