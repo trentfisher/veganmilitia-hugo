@@ -12,6 +12,15 @@ ends up generated like so:
 
 looks like this is a known, and long standing, problem
 https://github.com/gohugoio/hugo/issues/1240
+
+Still not sure how this is supposed to work,  I tried several variants
+content/post/1:  1.md  oliver-anus.png       => public/post/2017/10/30/1: index.html
+content/post/2:  index.md  oliver-anus.png   => public/post/2017/10/30/2: index.html oliver-anus.png
+content/post/3:  _index.md  oliver-anus.png  => public/post/2017/10/30/3:  (ignored!)
+content/post/4:  index.md oliver-anus.png    => public/post/2017/10/30/4: index.html oliver-anus.png
+![Ames or Anus]({{< relref "index.md" >}}/oliver-anus.png)
+
+
 *** tag cloud
 few themes seem to do this
 may have to cook it up myself
@@ -39,5 +48,6 @@ for i in themes/*; do echo ./hugo -t $(basename $i) -d public.$(basename $i); do
 4.5M	public.kiss
 1.4M	public.startbootstrap-clean-blog
 last one bombed
+
 
 ** Topics/ideas

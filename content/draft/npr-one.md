@@ -1,11 +1,10 @@
 +++
-date = "2017-09-11T10:38:06-04:00"
+date = "2000-09-11T10:38:06-04:00"
 description = ""
 draft = true
 tags = ["npr", "software", "quality"]
 title = "NPR Less Than One"
 topics = []
-
 +++
 
 Almost two years ago I first heard about the NPR One app.  I reluctantly tried it out, and found it incredibly useful and have been using it ever since.  However I'm not here to post a review of NPR One, but use it as a case study of what is wrong with software these days.

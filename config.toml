@@ -7,8 +7,8 @@ googleAnalytics = "UA-45576799-1"
 disqusShortname = "veganmilitia"
 relativeurls = true
 canonifyurls = true
-paginate = 10
-enableGitInfo = true
+paginate = 17
+#enableGitInfo = true
 enableRobotsTXT = true
 
 [params]
@@ -23,15 +23,15 @@ enableRobotsTXT = true
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/index.html"
     weight = 1
 [[menu.main]]
     name = "wtf"
-    url = "/page/about.html"
+    url = "/page/about/index.html"
     weight = 2
 [[menu.main]]
     name = "Tags"
-    url = "/tags/"
+    url = "/tags/index.html"
     weight = 4
 [[menu.main]]
     name = "Subscribe"
