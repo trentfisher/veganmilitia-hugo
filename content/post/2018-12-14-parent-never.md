@@ -4,7 +4,7 @@ date = "2018-12-14T08:39:13-05:00"
 publishdate = "2018-12-14T08:39:13-05:00"
 description = ""
 tags = ["guns", "parenthood"]
-title = "Parents Should Never Have to..."
+title = "No Parent Should Ever Have to"
 topics = []
 +++
 
