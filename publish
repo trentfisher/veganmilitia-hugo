@@ -11,7 +11,7 @@ fi
 
 for draft in $*
 do
-    test -f $draft || draft=content/drafts/$draft
+    test -f $draft || draft=content/draft/$draft
     test -f $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
 
     pubfile=content/post/`date +%F --date $pubdate`-`basename $draft`
