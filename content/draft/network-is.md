@@ -16,4 +16,7 @@ the full version is
 
 "The Network is the Computer... and that's why sucks so bad."
 
-Though, to be fair, the network is not the problem, as such.  The problem is the way it is used.  Specifically the pervasive assumption amongst programmers that all network operations have zero latency, infinite bandwidth, and is 100% reliable.
+Though, to be fair, the network is not the problem, as such.  The
+problem is the way it is used.  Specifically, the pervasive assumption
+amongst programmers that all network operations have zero latency,
+infinite bandwidth, and are 100% reliable.
