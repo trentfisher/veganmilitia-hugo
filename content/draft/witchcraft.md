@@ -16,11 +16,11 @@ was almost entirely Windows based (all my previous jobs had been primarily Unix)
 One day I was trying to track down a complicated problem.
 I asked my boss if there were any more diagnostic tools at hand which would help,
 to which he responded "would the problem go away if the computer is rebooted?"
-Most likely, but that won't fix the root pr-
+Most likely, but that won't fix the root prob-
 "Then reboot the computer, it's Windows, people are used to that.  Don't waste your time debugging."
 I verbally agreed, but in my head I thought "how are things supposed to get better if we do that?"
 
-Since that time, our lives have become awash in pervasive and
+Fast forward two decades...  our lives have become awash in pervasive and
 increasingly complicated devices.  Every day, we encounter strange
 problems: Spinners which never stop, devices which won't connect,
 blank screens, mysterious crashes.  Why these happen is a topic for a
@@ -42,9 +42,9 @@ and you'll find numerous articles which are a variation on this theme:
 * Buy a new device.
 
 I may be exagerating a bit... but not much, here's
-[an example][https://support.google.com/cloudprint/answer/2541927?hl=en]
-[and another][https://www.amazon.com/gp/help/customer/display.html?nodeId=201540810].
-I know I've seen others, I'm sure you have too.
+[an example](https://support.google.com/cloudprint/answer/2541927?hl=en)
+[and another](https://www.amazon.com/gp/help/customer/display.html?nodeId=201540810).
+I know I've seen others, I'm sure you have too.  Feel free to post others in the comments.
 
 But the upshot of this is that nobody knows what is going wrong.
 All these so-called "troubleshooting" steps are just guesses and workarounds

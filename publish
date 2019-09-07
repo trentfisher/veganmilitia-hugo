@@ -1,24 +1,40 @@
 #!/bin/sh
 #
 # move a draft to published post, to be posted on a given date
+#  publish [-n] date drafts....
+# the date is anything accepted by the 'date' command, common constructs:
+#  14-Sep-1899, +2 weeks, now
 #
-if date +%F --date $1 > /dev/null 2>&1
+if [ $1 = "-n" ]
 then
-    pubdate=$1; shift;
+    NOOP=echo
+    shift;
 else
-    pubdate=now
+    NOOP=
 fi
 
+# figure out the date to publish
+# hugo is fussy about timezone spec
+pubdate="$1"; shift;
+pubdateiso=`date +%FT%T%:z --date "$pubdate"`
+pubdatefile=`date +%F --date "$pubdate"`
+if [ -z "$pubdateiso" ]
+then
+    echo Error: unable to parse date spec $pubdate >&2
+    exit 1
+fi
+
+# it doesn't make much sense to publish several things at at the same time
+# but no reason to forbid it :)
 for draft in $*
 do
-    test -f $draft || draft=content/draft/$draft
-    test -f $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
+    test -e $draft || draft=content/draft/$draft
+    test -e $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
 
-    pubfile=content/post/`date +%F --date $pubdate`-`basename $draft`
-    pubdir=content/post/`date +%F --date $pubdate`-`basename $draft .md`
-    # hugo is fussy about timezone spec
-    pubdateiso=`date +%FT%T%:z --date $pubdate`
-    echo "Publishing to $pubfile"
+    pubfile=content/post/$pubdatefile-`basename $draft`
+    pubdir=content/post/$pubdatefile-`basename $draft .md`
+
+    echo "Publishing to $pubfile on $pubdateiso"
 
     # remove draft setting
     # insert/change both date and published date to be the same
@@ -27,8 +43,14 @@ do
 	echo 'draft = "false"'
 	echo 'date = "'$pubdateiso'"'
 	echo 'publishdate = "'$pubdateiso'"'
-	cat $draft) | perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > $pubfile
-    mv $draft `dirname $draft`/.`basename $draft`
-    mv `dirname $draft`/`basename $draft .md` $pubdir
+	cat $draft) | if [ "$NOOP" ]
+        then
+            cat | head -3
+        else
+            perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > $pubfile
+        fi
+
+#    $NOOP mv $draft `dirname $draft`/.`basename $draft`
+    $NOOP mv $draft $pubfile
 done
 

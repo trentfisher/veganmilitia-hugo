@@ -27,7 +27,7 @@ enableRobotsTXT = true
     weight = 1
 [[menu.main]]
     name = "wtf"
-    url = "/page/about/index.html"
+    url = "/page/"
     weight = 2
 [[menu.main]]
     name = "Tags"
