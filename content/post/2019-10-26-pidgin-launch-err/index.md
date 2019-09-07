@@ -1,7 +1,8 @@
 +++
-date = "2018-06-30T17:44:06-04:00"
+draft = "false"
+date = "2019-10-26T01:35:26-04:00"
+publishdate = "2019-10-26T01:35:26-04:00"
 description = ""
-draft = true
 tags = []
 title = "Null Message Body, Hope That's OK"
 topics = []

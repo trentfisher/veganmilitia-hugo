@@ -1,7 +1,8 @@
 +++
-date = "2019-04-09T10:38:06-04:00"
+draft = "false"
+date = "2019-09-21T01:25:59-04:00"
+publishdate = "2019-09-21T01:25:59-04:00"
 description = ""
-draft = true
 tags = ["agriculture", "drugs", "politics"]
 title = "Gardening for Legalization"
 topics = []

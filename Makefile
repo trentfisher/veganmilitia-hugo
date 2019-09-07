@@ -19,6 +19,8 @@ serve:
 	./hugo server --watch
 servedraft:
 	./hugo server --watch --buildDrafts=true --buildFuture=true
+servefuture:
+	./hugo server --watch --buildFuture=true
 
 upload: generate
 	lftp -e 'mirror -n -x \.git -x Makefile -X *~ --verbose=3 -c -R public www.veganmilitia.org/web/content/b2' ftp.veganmilitia.org

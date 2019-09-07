@@ -1,7 +1,8 @@
 +++
-date = "2019-01-01T10:38:06-04:00"
+draft = "false"
+date = "2019-10-08T01:34:43-04:00"
+publishdate = "2019-10-08T01:34:43-04:00"
 description = ""
-draft = true
 tags = ["software", "quality", "witchcraft"]
 title = "Digital Witchcraft"
 topics = []

@@ -1,7 +1,8 @@
 +++
-date = "2018-07-05T17:44:06-04:00"
+draft = "false"
+date = "2019-10-19T01:35:06-04:00"
+publishdate = "2019-10-19T01:35:06-04:00"
 description = ""
-draft = true
 tags = ["errors"]
 title = "No Reason"
 topics = []

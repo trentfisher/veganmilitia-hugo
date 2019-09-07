@@ -5,7 +5,7 @@
 # the date is anything accepted by the 'date' command, common constructs:
 #  14-Sep-1899, +2 weeks, now
 #
-if [ $1 = "-n" ]
+if [ "$1" = "-n" ]
 then
     NOOP=echo
     shift;
