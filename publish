@@ -31,26 +31,35 @@ do
     test -e $draft || draft=content/draft/$draft
     test -e $draft || { echo Error: cannot find draft $draft >&2; exit 1; }
 
-    pubfile=content/post/$pubdatefile-`basename $draft`
-    pubdir=content/post/$pubdatefile-`basename $draft .md`
+    pubdest=content/post/$pubdatefile-`basename $draft`
+    if [ -f $draft ]
+    then
+        pubfile=content/post/$pubdatefile-`basename $draft`
+    else
+        pubfile=content/post/$pubdatefile-`basename $draft`/index.md
+    fi
+    
+    echo "Publishing to $pubdest on $pubdateiso"
 
-    echo "Publishing to $pubfile on $pubdateiso"
+    # do this before messing with the file.
+    # if it's a directory we need it moved into place first,
+    # if it is a file, we will overwrite it in the next step
+    $NOOP git mv $draft $pubdest
 
     # remove draft setting
     # insert/change both date and published date to be the same
-    # rename the file from drafts to posts
     (
 	echo 'draft = "false"'
 	echo 'date = "'$pubdateiso'"'
 	echo 'publishdate = "'$pubdateiso'"'
-	cat $draft) | if [ "$NOOP" ]
+        if [ -z "$NOOP" ]; then cat $pubfile; fi ) |
+        if [ "$NOOP" ]
         then
             cat | head -3
+            echo NOOP: write to $pubfile
         else
-            perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > $pubfile
+            perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > /tmp/pp$$
+            cp /tmp/pp$$ $pubfile && rm /tmp/pp$$
         fi
-
-#    $NOOP mv $draft `dirname $draft`/.`basename $draft`
-    $NOOP mv $draft $pubfile
 done
 

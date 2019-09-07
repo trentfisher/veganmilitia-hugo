@@ -1,7 +1,8 @@
 +++
-date = "2018-06-20T17:44:06-04:00"
+draft = "false"
+publishdate = "2019-09-07T00:26:49-04:00"
+date = "2019-09-07T00:26:49-04:00"
 description = ""
-draft = true
 tags = ["error"]
 title = "An Occurence at Error Creek Bridge"
 topics = []
