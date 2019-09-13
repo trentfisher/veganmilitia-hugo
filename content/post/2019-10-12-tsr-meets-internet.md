@@ -65,7 +65,7 @@ Rob Repp, Manager, Digital Projects Group, TSR, Inc.
 At this point in my life I was not really prepared to deal with this:  I had just taken a new job, I was a junior engineer frantically trying to learn new software and how to keep builds and everything else going.  I was also teaching a system administration class at the University, and I was in the process of buying a house and preparing to move.  So this was really the last thing I needed on my plate.
 
 I was pretty angry about all of this, as I had nothing on my ftp site
-which I thought infringed any copyrights.  I read most everything that
+which infringed any copyrights.  I read most everything that
 went onte the site, and I never would have permitted anything which
 outright copied TSR materials.  Apparently, someone in TSR leadership
 must have felt than **any** fan-generated work represented competition
@@ -88,8 +88,8 @@ encouraged everyone to boycott TSR.  Within a week I had a manifesto
 posted there, further encouraging people to adopt freely distributed
 gaming systems to avoid this whole issue.  If TSR wasn't going to be
 nice to the fan community, we should abandon them.  I had been active
-in the GNU Project for some years, and clearly had delusions that I
-could be the Richard Stallman of FRP games.
+in the GNU Project for several years and clearly had delusions that I
+could be the Richard Stallman of FRP games.  Hah!
 
 I looked at various game systems and settled on [FUDGE](https://fudgerpg.com/about/about-fudge/fudge-overview.html).  I set to work reformatting the plain text rules into HTML and put that on the ftp site.  Then I started putting together a fantasy supplement which was intended for former D&D players like me.  That effort never got past an outline and a Texinfo formatted document (with no content).  My gaming group started playing using FUDGE, but designing a game system is hard work, and the gaming sessions were not as much fun and both the game sessions and the fantasy FUDGE effort fizzled.
 
@@ -106,8 +106,9 @@ last email was in December of that year.  One of the leading people in
 those discussions wrote an extensive article about this in his
 "Guildsman" fanzine.  You can see [this via the Wayback Machine](https://web.archive.org/web/20170420225717/http://www.fantasylibrary.com/period/guild/g07.pdf).
 
-So, what happened then?  I don't know, I barely thought about D&D until recently, so I had no idea what happened.  Here's what I have pieced together.
-
+So, what happened then?  I don't know,
+[I barely thought about D&D until recently]({{<relref "2019-09-10-dnd.md">}}),
+so I had no idea what happened.  Here's what I have pieced together:
 It would appear that this legal action was part of TSR's death spiral
 (listen to [Why Did TSR Fail](https://plotpoints.libsyn.com/why-did-tsr-fail-episode-112) for details),
 and the bankrupt company was bought by Wizards of the Coast whose
@@ -117,4 +118,4 @@ reversal in policies.  It seems like there is a lot of fan/3rd party
 material available, including on [Roll20](https://marketplace.roll20.net/),
 [DM's Guild](https://www.dmsguild.com/), and others.
 
-So, with that, I officially retract my call for boycott (though I suspect only a handful of people remember it), and I am planning to return to D&D.
+So, with that, I officially retract my call for boycott, though I suspect only a handful of people remember it, and the only people still following it had, like me, abandoned gaming for other reasons.  Since I started this article I bought the D&D Starter Set, so it is now officially official.

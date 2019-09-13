@@ -1,7 +1,8 @@
 +++
-date = "2018-06-25T17:13:26-04:00"
+draft = "false"
+date = "2019-11-04T00:00:00-05:00"
+publishdate = "2019-11-04T00:00:00-05:00"
 description = ""
-draft = true
 tags = ["election", "politics"]
 title = "Election Trauma"
 topics = []

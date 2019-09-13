@@ -1,7 +1,7 @@
 title = "The Vegan Militia"
-#baseurl = "/b2"
+baseurl = "http://veganmilitia.org/b2"
 theme = "hugo-xmin"
-copyright = "&copy; 2017. All rights reserved."
+copyright = "Copyright 2008-2019. All rights reserved."
 
 googleAnalytics = "UA-45576799-1"
 disqusShortname = "veganmilitia"
