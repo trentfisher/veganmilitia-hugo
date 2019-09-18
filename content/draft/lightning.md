@@ -7,7 +7,7 @@ title = "Lightning Strikes"
 topics = []
 +++
 
-Over the last several years I have noticed a common topic which comes up whenever I talk with my father.  He always mentions about how there was another shooting, and how bad the crime is in the city.  After he repeated this enough I began to wonder what was going on.  Whenever I visit, everything seems as good or better than it ever was.  I did a bit of digging and found that [the crime rates have been declining for years](https://www.cityrating.com/crime-statistics/oregon/portland.html).
+Over the last several years I have noticed a common topic which comes up whenever I talk with my father.  He always mentions about how there was another shooting, and how bad the crime is in the city.  After he repeated this enough I began to wonder what was going on.  Whenever I visit, everything seems as good or better than it ever was (though the homeless problem is worse than ever).  I did a bit of digging and found that [the crime rates have been declining for years](https://www.cityrating.com/crime-statistics/oregon/portland.html) as they have most everywhere in the country.
 
 So what is going on here?  Here is my theory:  TV news.  He has been watching more TV news in recent years and the steady drumbeat of stories about crime and tragedy gives the impression of a unfolding disaster.  I have heard it said that the plural of anecdote is not data, but the plural of scary anecdote is fear.
 
