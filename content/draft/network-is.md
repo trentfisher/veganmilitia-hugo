@@ -12,9 +12,9 @@ servers.  Way back then they had the slogan "The Network is the
 Computer".  Clearly that slogan is the old wine in the new bottle
 labeled "Cloud", but that's another story.  As I sit looking at an
 hourglass or a spinning "progress" icon, I realize that the original
-slogan was incomplete, the full version is
+slogan was incomplete, the full version is:
 
-"The Network is the Computer... and that's why it sucks so bad."
+>"The Network is the Computer... and that's why it sucks so bad."
 
 Though, to be fair, the network is not the problem, as such.  The
 problem is the way it is used.  Specifically, the apparent pervasive

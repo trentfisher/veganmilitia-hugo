@@ -1,7 +1,8 @@
 +++
-date = "2019-09-18T14:57:43-05:00"
+draft = "false"
+date = "2019-09-19T00:00:00-04:00"
+publishdate = "2019-09-19T01:00:00-04:00"
 description = ""
-draft = true
 tags = ["suicide-food"]
 title = "Three Little Pigs (spoiler alert)"
 topics = []
