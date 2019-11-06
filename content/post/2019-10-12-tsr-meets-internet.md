@@ -13,18 +13,19 @@ I will do my best to recount my small part amidst the decline of TSR, but many o
 I had been playing AD&D since the early '80 while in high school with
 two friends, but in total isolation.  I rarely met anybody else with interest in it and so our games were pretty much limited to published materials and our own attempts to concoct our own.  In fact, my first DM experience was with Village of Homlett and then I tried to write the sequel promised at the end of that module.  It is probably a good thing that I lost those materials.
 
-Sometime around 1988 I discovered rec.games.frp and related newsgroups
-on USENET.  This changed everything for me, suddenly I was reading
+Sometime around 1988, I discovered rec.games.frp and related newsgroups
+on [USENET](https://en.wikipedia.org/wiki/Usenet).
+This changed everything for me, suddenly I was reading
 details of other people's games, alternate rules, monsters, maps,
 stories, etc.  This cross-pollination greatly improved my own game and
 rejuvenated my interest.  I started buying material for the new
 Forgotten Realms setting and started a campaign based on it.
 
-Within a couple of years my university got connected to the internet, and we set up an ftp server on a Tektronix workstation sitting in the computer science lab.  One of the first things I did was start collecting the useful bits from rec.games.frp and populating my ftp site.  On 10-Apr-90 I sent an
+Within a couple of years, my university got connected to the internet, and we set up an ftp server on a Tektronix workstation sitting in the computer science lab (on more than one occasion the FTP site was down because a student bumped the network equipment behind that machine).  One of the first things I did was start collecting the useful bits from rec.games.frp and populating my ftp site.  On 10-Apr-90 I sent an
 [announcement to rec.games.frp](https://groups.google.com/d/msg/rec.games.frp/meHsV2FeaEI/yKnBL9HZMwwJ),
 and even more things started coming in and the site grew by leaps and bounds.
 
-In early 1994 I took a new job.  A few months later an email was forwarded to me by my successor:
+In early 1994 I took a new job.  A few months later, an email was forwarded to me by my successor:
 
 ```
 Date:    Thu, 28 Jul 94 17:28:59 –0400
@@ -62,22 +63,22 @@ receive them.
 Rob Repp, Manager, Digital Projects Group, TSR, Inc.
 ```
 
-At this point in my life I was not really prepared to deal with this:  I had just taken a new job, I was a junior engineer frantically trying to learn new software and how to keep builds and everything else going.  I was also teaching a system administration class at the University, and I was in the process of buying a house and preparing to move.  So this was really the last thing I needed on my plate.
+At this point in my life I was not prepared to deal with this:  I had just taken a new job, I was a junior engineer frantically trying to learn new software and how to keep builds, and everything else, going.  I was also teaching a system administration class at the University, and I was in the process of buying a house and preparing to move.  So this was really the last thing I needed on my plate.
 
 I was pretty angry about all of this, as I had nothing on my ftp site
 which infringed any copyrights.  I read most everything that
-went onte the site, and I never would have permitted anything which
+went onto the site, and I never would have permitted anything which
 outright copied TSR materials.  Apparently, someone in TSR leadership
 must have felt than **any** fan-generated work represented competition
 that had to be stamped out.  Since it was quite unlikely that any of
-these fans were capable of challenging them in court, it was an easy
-win.
+these fans were capable of challenging TSR in court, it was an easy
+win for them.
 
 As a result of all that, I don't think I took any action.  But TSR had
 been mailing other admins all over the University, and they shut down the
 site in September.  They let me go in and pick out the non-D&D
 material and set up a new site.  Over the next few weeks I butchered out 70 megs of stuff and brought the revised site back
-([here's a message I posted about this](https://groups.google.com/d/msg/rec.games.frp.dnd/jEhpyawl1V0/LO5fnlRIzWcJ)).  I sent mail to the TSR lawyer
+([here's a message I posted about this](https://groups.google.com/d/msg/rec.games.frp.dnd/jEhpyawl1V0/LO5fnlRIzWcJ)).  I sent mail to the TSR representative
 asking them to review in case I missed anything, but I never heard
 anything either way.
 
@@ -88,20 +89,21 @@ encouraged everyone to boycott TSR.  Within a week I had a manifesto
 posted there, further encouraging people to adopt freely distributed
 gaming systems to avoid this whole issue.  If TSR wasn't going to be
 nice to the fan community, we should abandon them.  I had been active
-in the GNU Project for several years and clearly had delusions that I
+in the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
+for several years and clearly had delusions that I
 could be the Richard Stallman of FRP games.  Hah!
 
 I looked at various game systems and settled on [FUDGE](https://fudgerpg.com/about/about-fudge/fudge-overview.html).  I set to work reformatting the plain text rules into HTML and put that on the ftp site.  Then I started putting together a fantasy supplement which was intended for former D&D players like me.  That effort never got past an outline and a Texinfo formatted document (with no content).  My gaming group started playing using FUDGE, but designing a game system is hard work, and the gaming sessions were not as much fun and both the game sessions and the fantasy FUDGE effort fizzled.
 
 As this was going on, the arguments on rec.games.frp.dnd continued, though I was largely
-detatched from that for the reasons mentioned above.  Looking at the archives on Google Groups, it
+detached from that for the reasons mentioned above.  Looking at the archives on Google Groups, it
 appears that the discussions continued for several years, with many
 people (including me) using the epithet T$R to represent the
 company's apparent greed.
 
 About 30 people pulled together a mailing list about the TSR
 situation, and some discussion ensued, both about legal options and
-alternatives like FUDGE.  Unfortately, this also quickly fizzed.  The
+alternatives like FUDGE.  Unfortunately, this also quickly fizzed.  The
 last email was in December of that year.  One of the leading people in
 those discussions wrote an extensive article about this in his
 "Guildsman" fanzine.  You can see [this via the Wayback Machine](https://web.archive.org/web/20170420225717/http://www.fantasylibrary.com/period/guild/g07.pdf).
