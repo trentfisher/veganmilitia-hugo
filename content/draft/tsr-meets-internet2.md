@@ -15,7 +15,7 @@ Yesterday, I am listening to one of my favorite podcasts,
 and was surprised to hear someone else involved in those long ago events.
 
 While I had some bits of history he did not (e.g. the email TSR sent to me and related names and dates)
-I realize I left out some details.
+I realize I left out some details.  Also, in my searching, I found [another account of these events](http://www.oocities.org/lapetitelesson/cs/text/TSR.txt), and a [detailed web site](http://d7.pipemaze.com/tsr-vs-the-internet/) and I found [Rob Repp](https://www.linkedin.com/in/robrepp/).
 
 One difference between our cases is that his site was devoted entirely to non D&D games.  Which means he could laugh off the threatening letters.  My site, on the other hand, covered many systems and there was a lot of D&D content, mainly because that was what I played.  When I saw something on USENET of interest, I would archive it on the FTP site.  As such, the D&D parts of my site were probably the only materials which I personally read.  None of it was directly copied from any TSR materials.  None of it, in my opinion, violated any copyrights.
 
@@ -283,7 +283,7 @@ I am pretty sure James Vassilakos, who I had been emailing about this privately,
 ] webmaster a copy and give YOUR permission for us to archive it on our own
 ] system for our users to enjoy.
 ```
-* If I had a GURPS web site, none of this would have happened...
+* So, if I had a GURPS web site, none of this would have happened...
 * 31-Oct-94:  And the arguments continue, with another call for boycott.  I chimed in about FUDGE, which I had switched to.  But Rob Repp [chimed in again](https://groups.google.com/d/msg/rec.games.frp.dnd/5hYEwFRoNHA/WOIH1eBsRBkJ)
 ```
 > Does TSR regard it as illegal to play AD&D with a dozen or so people over the
@@ -293,7 +293,7 @@ We certainly do not. Saving up all the moves, however, and republishing
 them as a separate work would probably be an infringement. Playing by any
 means is fine.
 ```
-* So this would mean live play podcasts would not have been permitted with this interpretation.
+* So this would mean live play podcasts, which are so common these days, would not have been permitted with this interpretation.
 * 20-Jun-94:  [A press release about TSR Online](https://groups.google.com/d/msg/rec.games.frp.dnd/-F4UbmKDC7M/WFT3iajwbLMJ)
 * 15-Mar-95:  A hint from Rob Repp:
 ```
@@ -377,6 +377,8 @@ the day Rob Repp _left_ TSR.
 Take several slow, deep breaths before saying anything.
 ```
 * Good advice!
+* 20-Dec-96:  [The tsrinc.com web site delayed due to InterNic](https://groups.google.com/d/msg/rec.games.frp.dnd/hprQrt5c5Xs/kt0PwAm_1x0J),
+so I guess the long-promised web site was just now appearing.
 * 10-Mar-97:  [Sean is separating his personal and professional personas on the net](https://groups.google.com/d/msg/rec.games.frp.dnd/OxbDWPXdn4Q/RdDKuDEyz1YJ),
 a wise move since Sean had been posting to this newsgroup for several years before joining TSR.
 * 3-Jun-97:  [WotC completes acquisition of TSR](https://groups.google.com/d/msg/rec.games.frp.dnd/VkED3kiu6xU/6x4NjYhW59MJ), later in the thread Sean says he got an offer.
@@ -384,6 +386,6 @@ a wise move since Sean had been posting to this newsgroup for several years befo
 and either to creative services or a different company.
 It appears he did get the job and worked on a number of products until WotC laid him off in 2002, read more on his [Wikipedia page](https://en.wikipedia.org/wiki/Sean_K._Reynolds).
 
-After looking at all this, if I had just blocked off access to the D&D related directories, within a year the whole thing would have blown over, and, two years later TSR would have been taken over by WotC and the landscape changed entirely.  Though, on the other hand, FTP sites were on their way out, and, my site would have been rapidly become a historical footnote if I didn't transition to the web.  I may have been considering such a transition around the time of these events, but I honestly don't remember.
+After looking at all this, it appears that if I had just blocked off access to the D&D related directories, within a year the whole thing would have blown over, and, two years later TSR would have been taken over by WotC and the landscape changed entirely.  Though, on the other hand, FTP sites were on their way out, and, my site would have been rapidly become a historical footnote if I didn't transition to the web.  I may have been considering such a transition around the time of these events, but I honestly don't remember.
 
 

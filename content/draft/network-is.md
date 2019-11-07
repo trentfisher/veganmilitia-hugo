@@ -2,14 +2,14 @@
 date = "2018-07-02T10:37:42-04:00"
 description = ""
 draft = true
-tags = ["network", "performance"]
+tags = ["network", "performance", "computer"]
 title = "The Network is the Computer..."
 topics = []
 +++
 
 Some of my early career was spent working on Sun workstations and
 servers.  Way back then they had the slogan "The Network is the
-Computer".  Clearly that slogan is the old wine in the new bottle
+Computer".  Clearly, that slogan is the old wine in the new bottle
 labeled "Cloud", but that's another story.  As I sit looking at an
 hourglass or a spinning "progress" icon, I realize that the original
 slogan was incomplete, the full version is:
