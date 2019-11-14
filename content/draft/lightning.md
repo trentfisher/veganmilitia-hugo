@@ -1,5 +1,5 @@
 +++
-date = "2018-12-14T14:57:43-05:00"
+date = "2019-12-14T14:57:43-05:00"
 description = ""
 draft = true
 tags = []
@@ -20,4 +20,12 @@ And so on.  Each one accompanied with grisly photographs and footage.  After eno
 
 But, as we all know, this fear is utterly irrational and not backed up by
 [the data](https://www.weather.gov/safety/lightning-odds): only 270 people are struck by lightning in the US each year, and only 27 of them die.  Furthermore, that death rate has been on the decline since records have been kept (1940).
+
+But TV news lives for the lurid anecdote, the horrifying footage, the eyewitness stories, etc.  That keeps the ratings up.  And creates a lot of fear of the *wrong* things.  Even when they give numbers it is one or two numbers which is not very useful.  For example, if I told you that the stock market fell 350 points, you might think you need to panic, but then if I tell you that the current number is 27,691, then you would know that is a tiny percentage, and likely a normal fluctuation.  But if I give you a chart showing the stock market numbers over the last year or two you could actually make an informed decision based on long-term trends.  But that won't keep their ratings up.
+
+This sort of thing is also what gets people elected, the current incarnation of the Republican party has taken this to the most cynical extreme as stated by [Newt Gingrich when he was challenged with actual data](https://www.forbes.com/sites/startswithabang/2016/08/05/newt-gingrich-exemplifies-just-how-unscientific-america-is/#15663ad05e47):
+
+> "The average American, I will bet you this morning, does not think that crime is down, does not think that we are safer.  People feel more threatened.  As a political candidate, I'll go with what people feel."
+
+In other words, screw facts, data, logic, and rational discourse, if I can whip up enough fear I can get myself elected.  The dreams of the founding fathers trampled in the name of winning.
 
