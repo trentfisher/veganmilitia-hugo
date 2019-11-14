@@ -1,7 +1,8 @@
 +++
-date = "2018-07-02T10:37:42-04:00"
+draft = "false"
+date = "2019-11-30T00:00:00-05:00"
+publishdate = "2019-11-30T00:00:00-05:00"
 description = ""
-draft = true
 tags = ["network", "performance", "computer"]
 title = "The Network is the Computer..."
 topics = []

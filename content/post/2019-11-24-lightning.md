@@ -1,7 +1,8 @@
 +++
-date = "2019-12-14T14:57:43-05:00"
+draft = "false"
+date = "2019-11-24T00:00:00-05:00"
+publishdate = "2019-11-24T00:00:00-05:00"
 description = ""
-draft = true
 tags = []
 title = "Lightning Strikes"
 topics = []

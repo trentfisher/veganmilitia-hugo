@@ -1,7 +1,8 @@
 +++
-date = "2019-11-03T10:37:42-04:00"
+draft = "false"
+date = "2019-11-18T00:00:00-05:00"
+publishdate = "2019-11-18T00:00:00-05:00"
 description = ""
-draft = true
 tags = ["rpg", "dnd", "tsr"]
 title = "TSR Meets the Internet, Part 2"
 topics = []
