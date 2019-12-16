@@ -7,7 +7,7 @@ title = "The Poverty of Computer RPG"
 topics = []
 +++
 
-I was introduced to both computers and Dungeons and Dragons around the same time.  I did not even see a computer until I got to high school, and soon after I could be found in the computer lab after school playing a number of role playing games including
+I was introduced to both computers and Dungeons and Dragons around the same time.  I did not even see a computer until I got to high school, and soon after I could be found in the computer lab every afternoon after school playing a number of role playing games including
 [Temple of Apshai](https://en.wikipedia.org/wiki/Temple_of_Apshai),
 [Akalabeth](https://en.wikipedia.org/wiki/Akalabeth:_World_of_Doom), and,
 [Ultima II](https://en.wikipedia.org/wiki/Ultima_II:_The_Revenge_of_the_Enchantress).

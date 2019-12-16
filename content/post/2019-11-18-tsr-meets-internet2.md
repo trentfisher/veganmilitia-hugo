@@ -10,13 +10,13 @@ topics = []
 
 So, several months ago I wrote up
 [my experiences with TSR in the early days of the internet]({{<relref "2019-10-12-tsr-meets-internet.md">}}).
-Yesterday, I am listening to one of my favorite podcasts,
+A few days ago, I was listening to one of my favorite podcasts,
 [Plot Points](http://plotpointspod.com/),
 [interviewing Shannon Appelcline](http://plotpointspod.com/rpg-historian-shannon-appelcline-told-to-cease-desist-by-tsr-ep-166/),
 and was surprised to hear someone else involved in those long ago events.
 
 While I had some bits of history he did not (e.g. the email TSR sent to me and related names and dates)
-I realize I left out some details.  Also, in my searching, I found [another account of these events](http://www.oocities.org/lapetitelesson/cs/text/TSR.txt), and a [detailed web site](http://d7.pipemaze.com/tsr-vs-the-internet/) and I found [Rob Repp](https://www.linkedin.com/in/robrepp/).
+I realize I left out some details.  Also, in my searching, I found [another account of these events](http://www.oocities.org/lapetitelesson/cs/text/TSR.txt), and a [detailed web site](http://d7.pipemaze.com/tsr-vs-the-internet/) and I found [Rob Repp](https://www.linkedin.com/in/robrepp/), himself.
 
 One difference between our cases is that his site was devoted entirely to non D&D games.  Which means he could laugh off the threatening letters.  My site, on the other hand, covered many systems and there was a lot of D&D content, mainly because that was what I played.  When I saw something on USENET of interest, I would archive it on the FTP site.  As such, the D&D parts of my site were probably the only materials which I personally read.  None of it was directly copied from any TSR materials.  None of it, in my opinion, violated any copyrights.
 
@@ -27,7 +27,7 @@ coincidentally, I finally found on rpg.net, which is the site Shannon runs.
 
 For reasons I explained in my last post on this subject, I had entirely checked out of the discussions following the lobotomizing of my FTP site.  I was angry and demoralized that something I had worked for years on could be destroyed so easily, so I walked away.  That was probably also contributed to my giving up role-playing games entirely a few years later.
 
-But after hearing the podcast with Shannon, my curiosity compelled me to go look at the messages on rec.games.frp.dnd, see what I had missed, and piece together a larger timeline.
+But after hearing the podcast with Shannon, my curiosity compelled me to go look at the messages on rec.games.frp.dnd, see what I had missed, and piece together a larger timeline.  What follows is quite lengthy and probably of little interest to most people, but it interested *me*, so here it is.
 
 * 12-Feb-94:  [This](https://groups.google.com/d/msg/rec.games.frp.dnd/1QmP7XfUwG4/tvZB1QxX1iQJ)
 is the first hint of TSR having an online presence with a second-hand reporting of the email address tsr@genie.geis.com.
@@ -174,7 +174,7 @@ like.
 
 Any opinions on the border art?
 ```
-* 30-Aug-94: By now it seems Rob Repp was keeping his head down amidst the flamewars, but when someone tried to get him to respond, [he did so](https://groups.google.com/d/msg/rec.games.frp.dnd/D0cB5pJnY8w/viJW3vniaO8J):
+* 30-Aug-94: By now, it seems Rob Repp was keeping his head down amidst the flamewars, but when someone tried to get him to respond, [he did so](https://groups.google.com/d/msg/rec.games.frp.dnd/D0cB5pJnY8w/viJW3vniaO8J):
 ```
 Maybe I'm just ignoring you... :)
 
@@ -195,9 +195,9 @@ Have a nice day!
 * 6-Sep-94:
 The compiler of the Net.Monstrous.Compendium apparently had worked to get
 explicit permission from TSR and apparently [got it](https://groups.google.com/d/msg/rec.games.frp.dnd/YCfQfg49gG8/ZWUvszr3jFkJ).
-* The flamewars are still ongoing, though tapering off a bit.  One person questioned how much this is hurting TSR, to which someone said "I'm sure they'll survive".  Little did they know.
+* The flamewars are still ongoing, though tapering off a bit.  One person questioned how much this is hurting TSR, to which someone said "I'm sure they'll survive".  Little did they know what would happen in the next few years.
 Someone else [called for a boycott](https://groups.google.com/d/msg/rec.games.frp.dnd/wl8ukqzJQjo/kMl1ip4sfisJ).
-* Later that same day Rob posted [TSR's official corporate statement](https://groups.google.com/d/msg/rec.games.frp.dnd/bekSc6VUAqo/AgvjcVtmLuwJ):
+* Later that same day, Rob posted [TSR's official corporate statement](https://groups.google.com/d/msg/rec.games.frp.dnd/bekSc6VUAqo/AgvjcVtmLuwJ):
 ```
 REGARDING TRADEMARKED AND COPYRIGHTED MATERIAL USED ON-LINE:
 TSR is now an active member of the on-line gaming community. Since
@@ -264,7 +264,7 @@ All Rights Reserved.
 Sean Reynolds (remember that name) reporting to have [phoned up TSR and was transferred to him](https://groups.google.com/d/msg/rec.games.frp.dnd/rg11ZScOQ0o/q-D0l5XfnjkJ).
 * 18-Oct-94: Someone noticed my site was butchered and
 [reposted the entire email thread between TSR and the admins](https://groups.google.com/d/msg/rec.games.frp.dnd/d-iLOsQNdXA/7G7WP3932ekJ) (which I stuck on the site so people would know what happened).
-* Now that I look at this, I see a list of the offending files, and it is pretty much what I said above, though I see a copy of the Net.Monster book which was given an official stamp of approval several weeks earlier.
+* Now that I look at this message, I see a list of the offending files, and it is pretty much what I said above, though I see a copy of the Net.Monster book which was given an official stamp of approval several weeks earlier.
 * 26-Oct-94:  I must have seen some of this as [I responded to clarify why my site was butchered](https://groups.google.com/d/msg/rec.games.frp.dnd/d-iLOsQNdXA/eadh0hZVl-EJ).
 I am pretty sure James Vassilakos, who I had been emailing about this privately, suggested I clarify things.
 * An interesting side-note is found a few posts later in that same thread, when someone got [Steve Jackson](https://en.wikipedia.org/wiki/Steve_Jackson_(American_game_designer)) himself to weigh in on this:
@@ -294,7 +294,7 @@ We certainly do not. Saving up all the moves, however, and republishing
 them as a separate work would probably be an infringement. Playing by any
 means is fine.
 ```
-* So this would mean live play podcasts, which are so common these days, would not have been permitted with this interpretation.
+* So this would mean live play podcasts, which are so common these days, would not have been permitted with this interpretation!
 * 20-Jun-94:  [A press release about TSR Online](https://groups.google.com/d/msg/rec.games.frp.dnd/-F4UbmKDC7M/WFT3iajwbLMJ)
 * 15-Mar-95:  A hint from Rob Repp:
 ```
