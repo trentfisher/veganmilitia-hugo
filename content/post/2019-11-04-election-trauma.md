@@ -11,7 +11,7 @@ topics = []
 
 This post has been sitting half finished for a very long time.  I hereby give up and post it as is...
 
-So it was election night 2016, and it was becoming clear what we had done to ourselves.  I began thinking about my daughter and what to tell her the next day.  This would be her first memory of an election, and instead of being something to, at least somewhat, inspire her confidence about the power of democratic institutions, it would, instead, be a traumatic stain in her memory: someone even a 10 year old could see was clearly incompetent and indifferent to the democratic institutions of this country and the rule of law.
+So it was election night 2016, and it was becoming clear what we had done to ourselves.  I began thinking about my daughter and what to tell her the next day.  This would be her first memory of an election, and instead of being something to, at least somewhat, inspire her confidence about the power of democratic institutions, it would, instead, be a traumatic stain in her memory: someone got elected, under questionable circumstances, who, even an 8 year old could see, was clearly incompetent and indifferent to the democratic institutions of this country and the rule of law.
 
 Then I began to think about my first memories of anything political:  I remember sitting with my parents watching the evening news as Nixon announced his resignation, I had no idea what Watergate was all about, but I knew something really bad had happened, a corrupt leader breaking the law to gain a position of power.  A traumatic stain on my image of our democratic institutions.
 

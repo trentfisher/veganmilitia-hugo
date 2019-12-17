@@ -7,7 +7,7 @@ title = "With No Output"
 topics = []
 +++
 
-So I create numerous SVN replicas and since it takes several steps to do this, I have it in a script.  The whole thing mysteriously fails with this:
+So I create numerous SVN replicas and since it takes several steps to do this, I have it automated all the icky bits in a script.  The whole thing mysteriously fails with this:
 
 > svn: E165001: Revprop change blocked by pre-revprop-change hook (exit code 255) with no output.
 

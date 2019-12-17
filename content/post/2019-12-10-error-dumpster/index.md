@@ -1,6 +1,6 @@
 +++
 draft = "false"
-date = "2019-11-10T01:34:56-04:00"
+date = "2019-12-10T01:34:56-04:00"
 description = ""
 tags = ["programming", "errors"]
 title = "Screenshot dumpster dive"
