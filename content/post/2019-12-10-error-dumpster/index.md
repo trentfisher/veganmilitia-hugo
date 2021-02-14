@@ -11,11 +11,11 @@ I had a whole bunch of error message screenshots saved and as I was looking thro
 
 The first category I call "Sorry, not sorry": inauthentic apologies for things that the author of the error message is likely responsible for in the first place.
 
-The next category I call "Funny, not funny": instead if giving inauthentic apologies for our screw up, we will try to distract from it with a "cute" saying ("aw, snap") or a frowny face icon.  I am not laughing, just stop.
+The next category I call "Funny, not funny": instead of giving inauthentic apologies for our screw up, we will try to distract from it with a "cute" saying ("aw, snap") or a frowny face icon.  I am not laughing, just stop.
 
-The next category is what I call "helpfully not helpful":  the error message gives some excess, though unhelpful detail with the error message.  You still don't know what went wrong but you spent twice as long reading the verbiage.  Also useless suggestions like "try again later" or "retry" fall into this bucket.
+The next category is what I call "helpfully not helpful":  the error message gives some excess, though unhelpful, detail with the error message.  You still don't know what went wrong but you spent twice as long reading the verbiage.  Also useless suggestions like "try again later" or "retry" fall into this bucket.
 
-The category "dunno" covers most of these errors:  I don't know what happened (even though I am coding an exception block), so I will just feign ignorance.  It's best when these are in passive voice, and extra credit for using "something" in the error.
+The category "dunno" covers most of these errors:  I don't know what happened (even though I am coding an exception block), so I will just feign ignorance.  It's best when these are in passive voice, and extra credit for using the word "something" in the error.
 
 The next category, which rarely comes up, is when there are clues as to what went wrong.  I myself have (unintentionally) written errors like this with code like this:
 
