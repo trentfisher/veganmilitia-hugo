@@ -1,6 +1,9 @@
 * Blog notes
 ** usage notes
 how to make hugo do what I want
+*** Links to other posts
+Like this:
+[ancestors]({{<relref "2015-09-30-witch.md">}})
 *** put images next to post
 for example:
 ./content/post/2015-10-30-penmanship.md
@@ -20,7 +23,13 @@ content/post/3:  _index.md  oliver-anus.png  => public/post/2017/10/30/3:  (igno
 content/post/4:  index.md oliver-anus.png    => public/post/2017/10/30/4: index.html oliver-anus.png
 ![Ames or Anus]({{< relref "index.md" >}}/oliver-anus.png)
 
+This was fixed in a recent version, organize bundles like so:
 
+./content/post/2015-10-30-penmanship/index.md
+./content/post/2015-10-30-penmanship/oliver-anus.png
+
+*** links to images in other posts
+TBD
 *** tag cloud
 few themes seem to do this
 may have to cook it up myself
