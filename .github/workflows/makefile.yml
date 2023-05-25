@@ -13,11 +13,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
+
+    - name: Install lftp
+      run: apt install lftp
+
     - name: Setup Go environment
       uses: actions/setup-go@v4.0.1
 
-    - name: configure
+    - name: Get Hugo
       run: make hugo
 
     - name: generate site
