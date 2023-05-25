@@ -28,5 +28,11 @@ jobs:
     - name: generate site
       run: make generate
 
+    - uses: extractions/netrc@v1
+      with:
+        machine: ftp.veganmilitia.org
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+
     - name: upload
       run: make upload
