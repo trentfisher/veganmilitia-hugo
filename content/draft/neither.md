@@ -7,7 +7,7 @@ title = "Neither Engineering nor Science"
 topics = []
 +++
 
-When I was in college the ACM chapter did a survey of students; one of
+When I was in college, the ACM chapter did a survey of students; one of
 the questions was what we would call ourselves after graduating:
 "software engineer", "programmer", "computer scientist", and probably
 a few others I have forgotten.  The majority chose the former, though
@@ -19,7 +19,9 @@ uncomfortable with the term "engineering" to describe what we do.
 I have a friend who was a mechanical engineer who designed
 towers for high-tension power lines.
 Putting what I do in the same category as what he does seems very wrong.
-We are both building things, but we use very different materials
+On some level, you can say we are both building things,
+but he is building using components with known properties which behave consistently.
+On the other hand I am building with numerous components of variable quality
 
 
 > If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.
