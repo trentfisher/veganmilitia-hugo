@@ -29,8 +29,10 @@ generate:
 	./hugo
 
 theme:
-	git clone https://github.com/yoshiharuyamashita/blackburn.git
-	git clone https://github.com/spf13/hyde.git
-	git clone https://github.com/ribice/kiss.git
+	git clone https://github.com/trentfisher/hugo-xmin.git
+#	git clone https://github.com/yoshiharuyamashita/blackburn.git
+#	git clone https://github.com/spf13/hyde.git
+#	git clone https://github.com/ribice/kiss.git
+
 # notes:
 #  new post:  hugo new post/foo.md
