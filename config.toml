@@ -1,9 +1,9 @@
 title = "The Vegan Militia"
 baseurl = "http://veganmilitia.org/b2"
 theme = "hugo-xmin"
-copyright = "Copyright 2008-2019. All rights reserved."
+copyright = "Copyright 2008-2023. All rights reserved."
 
-googleAnalytics = "UA-45576799-1"
+googleAnalytics = "G-QDDGL4RPEQ"
 disqusShortname = "veganmilitia"
 relativeurls = true
 canonifyurls = true
