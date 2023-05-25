@@ -1,7 +1,8 @@
 +++
-date = "2023-05-19T10:37:42-04:00"
+draft = "false"
+date = "2023-05-25T10:57:42-04:00"
+publishdate = "2023-05-25T10:57:42-04:00"
 description = ""
-draft = true
 tags = ["computers", "programming", "automation"]
 title = "The Parable of the Brush Turkey"
 topics = []
