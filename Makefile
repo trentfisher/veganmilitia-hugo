@@ -24,7 +24,7 @@ servefuture:
 	./hugo server --watch --buildFuture=true
 
 upload: generate
-	lftp -e 'mirror -n -x \.git -x Makefile -X *~ --verbose=3 -c -R public www.veganmilitia.org/web/content/b2' ftp.veganmilitia.org
+	lftp -e 'mirror -R -n -x \.git -x Makefile -X *~ --verbose=3 public www.veganmilitia.org/web/content/b2' ftp.veganmilitia.org
 
 generate: themes/hugo-xmin
 	./hugo

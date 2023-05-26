@@ -20,6 +20,6 @@ She repeats this, constantly running around adding and removing material from th
 
 Those with ears, let them hear!
 
-As a programmer the urge to automate tasks is constant.  However, there are many times when the effort of automating the task may be far greater than just doing the task manually.  As an example, I was once mandated to automate a task at work.  The task normally took about 15 minutes and I had to do it 2-4 times a month.  With the automation it now took about 5 minutes.  But it took 11 hours to get the automation all set up.  It will take years to break even.
+As a programmer the urge to automate tasks is constant.  However, there are many times when the effort of automating the task may be far greater than just doing the task manually.  Let's say you have a task which takes you 15 minutes, but with some automation you could reduce that to 5.  So you spend a day writing a program to do the automation.  But you only do that task twice a month.  It will take years to break even.
 
-I would have been better off sitting on that egg!
+You would have been better off sitting on that egg!
