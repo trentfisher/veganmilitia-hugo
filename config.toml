@@ -25,10 +25,11 @@ enableRobotsTXT = true
     name = "Home"
     url = "/index.html"
     weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/page/about"
-    weight = 2
+# the template does this automatically
+#[[menu.main]]
+#    name = "About"
+#    url = "/page/about"
+#    weight = 2
 [[menu.main]]
     name = "Tags"
     url = "/tags/index.html"

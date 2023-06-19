@@ -3,10 +3,13 @@ draft = "false"
 date = "2023-06-19T14:48:34-04:00"
 publishdate = "2023-06-19T14:48:34-04:00"
 description = ""
-tags = ["dnd"]
+tags = ["dnd", "friends"]
 title = "Old Friends"
 topics = []
 +++
+
+> "The band, Elwood, the band!"  
+> "The band?  The band.  The band!"
 
 It was the last day of my senior year of high school.  Since seniors
 finished school a week earlier than everyone else, my final project in
@@ -32,9 +35,9 @@ closet would never be worn, and I would have no further contact with
 anyone from high school, except...
 
 A few weeks later, I drove to Portland and met up with Lance and Chris to play Dungeons and Dragons.
-We [started playing D&D]({{<relref "2019-09-10-dnd.md">}}) several years earlier and had played regularily ever since, and with only a short break for my trip and time for Lance to move to Portland, we resumed where right where we left off and kept on for 12 more years.  There were big changes in all of our lives 
+We [started playing D&D]({{<relref "2019-09-10-dnd.md">}}) several years earlier and had played regularily ever since, and with only a short break for my trip and time for Lance to move to Portland, we resumed where right where we left off and kept on for 12 more years.  But then big changes in all of our lives brought it to and end and all those distractions caused us all to forget.
 
-I didn't really think of the importance of those two friends or of Dungeons and Dragons for many years.  When you are young you don't think about such things.  But when a [chance occurrence]({{<relref "2019-09-10-dnd.md">}}) made me think of Dungeons and Dragons, I tried to get back in contact.
+I didn't really think of the importance of those two friends or of Dungeons and Dragons for many years.  When you are young you don't think about such things.  But when a [chance occurrence]({{<relref "2019-09-10-dnd.md">}}) 20 years later made me think of Dungeons and Dragons, I tried to get back in contact.
 
 I located Chris in 2019 and when the pandemic started the next year we started playing online, with his sister and kids joining in.
 
@@ -42,7 +45,7 @@ All through this I struggled to find Lance, every phone number I found did not w
 
 So these two were the *only* friends from my childhood who I stayed in
 contact with, and I credit that to Dungeons and Dragons.  At the time,
-I think we all just though of it as a game, something to spend our
+I think we all just thought of it as a game, something to spend our
 Saturday afternoon doing to avoid homework.  But now I see it was the
 glue that kept us getting together on a regular basis for all those
 years, and it helped us build a relationship that was deep enough that
