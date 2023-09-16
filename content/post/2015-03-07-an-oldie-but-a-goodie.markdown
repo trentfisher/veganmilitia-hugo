@@ -15,17 +15,9 @@ tags:
 - Sun
 ---
 
-Here's an error message I first remember seeing a few decades ago.  Sadly I just ran into it again.  It seems guessing games never go out of style.
+Here's an error message I first remember seeing a few decades ago.  Sadly I just ran into it again.  It seems guessing games never go out of style.
 
-
-<blockquote>
-
-> 
-> Error while changing the NIS password.
-> 
-> 
-
-> 
-> The NIS password has not been changed on somenisserver.
-> 
-> </blockquote>
+```
+Error while changing the NIS password.
+The NIS password has not been changed on somenisserver.
+```

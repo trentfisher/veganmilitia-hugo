@@ -31,9 +31,7 @@ I took a look at the abstract:
 
 
 
-<blockquote>Studies to date do not support the proposition that recommendations to increase F/V intake or the home delivery or provision of F/Vs will cause weight loss. On the basis of the current evidence, recommending increased F/V consumption to treat or prevent obesity without explicitly combining this approach with efforts to reduce intake of other energy sources is unwarranted.
-> 
-> </blockquote>
+>Studies to date do not support the proposition that recommendations to increase F/V intake or the home delivery or provision of F/Vs will cause weight loss. On the basis of the current evidence, recommending increased F/V consumption to treat or prevent obesity without explicitly combining this approach with efforts to reduce intake of other energy sources is unwarranted.
 
 
 

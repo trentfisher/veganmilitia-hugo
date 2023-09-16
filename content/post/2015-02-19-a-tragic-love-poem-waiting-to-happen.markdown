@@ -15,9 +15,7 @@ tags:
 
 Here's a sad story from the Van Bunschoten book, which would be a great premise for a tragic love poem (like [The Highwayman](https://www.youtube.com/watch?v=A9fWjzYiRUE))
 
-
-<blockquote>Sarah, b. Jan. 8, 1786; d. Sept. 5, 1803. She was to have married John Greene, ... He came up from New York to his home near Hyde Park with an illness that proved to be yellow fever and she nursed him. He died; she caught the fever from him and also died, and they lie side by side in Hyde Park church-yard.</blockquote>
-
+>Sarah, b. Jan. 8, 1786; d. Sept. 5, 1803. She was to have married John Greene, ... He came up from New York to his home near Hyde Park with an illness that proved to be yellow fever and she nursed him. He died; she caught the fever from him and also died, and they lie side by side in Hyde Park church-yard.
 
 Sarah's page can be [found on WeRelate ](http://www.werelate.org/wiki/Person:Sarah_Van_Bunschoten_%285%29)
 

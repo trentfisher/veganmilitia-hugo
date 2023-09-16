@@ -25,7 +25,7 @@ However, based on my experience, I do think it is _possible_ for humans and chic
 The comments that followed the blog entry were largely filled with ignorance and intolerance, in accordance with internet traditions.  But my favorite was this astounding display of all-out ignorance:
 
 
-<blockquote>_[...] if we all become strict vegans, where's all the food going to come from?_</blockquote>
+>_[...] if we all become strict vegans, where's all the food going to come from?
 
 
 Obviously this person believes that the animals live on air.  Animal agriculture consumes at least half of the U.S. grain production.  That's enough grain to feed 800 million people (see [this](http://www.news.cornell.edu/releases/Aug97/livestock.hrs.html)), compare that to the 10.4 million children who die each year of malnutrition.  How does that steak taste now?

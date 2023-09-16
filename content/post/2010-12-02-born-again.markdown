@@ -22,13 +22,12 @@ I have run into several ex-vegans (or ex-vegetarians) over the years and have re
 But a recent posting from an ex-vegan has shown that I forgot something: _a religious experience_.  Here are some excerpts (emphasis added):
 
 
-<blockquote>My first bite of meat after 3.5 years of veganism ... I just ate, and ate, and ate. I cried in grief and anger, while moaning with pleasure and joy.  ... my face felt warm, my mind peaceful, and my stomach full but….I searched for a word to describe how it felt….comfortable.  I had only eaten a small piece of cow flesh, and yet I felt totally full, but light and refreshed all at once. ... How beautiful it felt to be able to eat the exact thing that for so long my body had been begging for. I felt profoundly joyful in finally listening to the wisdom of my body. **What a revelation**.</blockquote>
+>My first bite of meat after 3.5 years of veganism ... I just ate, and ate, and ate. I cried in grief and anger, while moaning with pleasure and joy.  ... my face felt warm, my mind peaceful, and my stomach full but….I searched for a word to describe how it felt….comfortable.  I had only eaten a small piece of cow flesh, and yet I felt totally full, but light and refreshed all at once. ... How beautiful it felt to be able to eat the exact thing that for so long my body had been begging for. I felt profoundly joyful in finally listening to the wisdom of my body. **What a revelation**.
 
 
 She didn't eat a steak, she saw Jesus!  But the miracle continues!
 
-
-<blockquote>Then I noticed something else odd: my heart was beating slowly, steadily. ... my heart was in perfect shape. ... Now after eating a single piece of steak, my heart thudded on, steady, strong, and slow. It made me cry all over again, this time in joy.</blockquote>
+>Then I noticed something else odd: my heart was beating slowly, steadily. ... my heart was in perfect shape. ... Now after eating a single piece of steak, my heart thudded on, steady, strong, and slow. It made me cry all over again, this time in joy.
 
 
 I am healed!  Praise the Lord!  Amen and pass the butter!

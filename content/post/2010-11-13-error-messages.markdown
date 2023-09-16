@@ -19,7 +19,7 @@ tags:
 There's an old joke told many years ago by those who didn't like Unix:
 
 
-<blockquote>[Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson) has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the numerous idiot lights which plague the modern driver. Rather, if the driver makes any mistake, a giant "?" lights up in the center of the dashboard. "The experienced driver", he says, "will usually know what's wrong."</blockquote>
+>[Ken Thompson](http://en.wikipedia.org/wiki/Ken_Thompson) has an automobile which he helped design. Unlike most automobiles, it has neither speedometer, nor gas gauge, nor any of the numerous idiot lights which plague the modern driver. Rather, if the driver makes any mistake, a giant "?" lights up in the center of the dashboard. "The experienced driver", he says, "will usually know what's wrong."
 
 
 I'm sure the early versions of [ed](http://en.wikipedia.org/wiki/Ed_(text_editor)) inspired this.  Though in those days, when every byte counted, a certain level of terseness was understandable.  And the software was simple enough that there were a limited number of things which could be going wrong.

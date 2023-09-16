@@ -17,9 +17,7 @@ He rightly fears authoritarianism, and I think everyone, aside from those in pow
 
 Ah, but here's a key point, he says
 
-
-<blockquote>Liberty – true liberty – requires that people see themselves as self-respecting, self-determining subjects, capable of making free choices and pursuing the "good life" as they see fit.</blockquote>
-
+>Liberty – true liberty – requires that people see themselves as self-respecting, self-determining subjects, capable of making free choices and pursuing the "good life" as they see fit.
 
 It's interesting to see what he leaves out: **responsibility**.  By this standard,  if I want to dump all my garbage in my backyard that's my business, my _"free choice"_, and the fact it attracts rats which invade your house is _your_ problem.  Ultimately his point of view is that we act in a moral vacuum: if I ask for you to clean up your yard, I am "imposing my will" on you; and that any time a society tries to force you to take responsibility for your actions, or impose penalties to mitigate the consequences, this is tyranny.
 

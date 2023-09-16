@@ -13,9 +13,7 @@ categories:
 
 This passage is from a [recent op-ed by David Brooks](http://www.nytimes.com/2008/07/18/opinion/18brooks.html?hp):
 
-
-<blockquote>The high point of his campaign, so far, has been his energy policy, which is comprehensive and bold, but does not try to turn us into a nation of bicyclists. It does not view America’s energy-intense economy as a sign of sinfulness.</blockquote>
-
+> The high point of his campaign, so far, has been his energy policy, which is comprehensive and bold, but does not try to turn us into a nation of bicyclists. It does not view America’s energy-intense economy as a sign of sinfulness.
 
 While I seriously doubt that any mainstream candidate intends to turn us into a "nation of bicyclists," I have to ask... what's wrong with that?
 
