@@ -3,7 +3,7 @@ draft = "false"
 date = "2019-10-19T01:35:06-04:00"
 publishdate = "2019-10-19T01:35:06-04:00"
 description = ""
-tags = ["errors"]
+tags = ["error"]
 title = "No Reason"
 topics = []
 

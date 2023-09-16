@@ -17,7 +17,7 @@ This encapsulates my only regret about the vacation:  that I did not get a pictu
 For more details of what happened in this city in 1980 see [this paper](https://www.academia.edu/2630453/_Marx_and_the_Devil_in_Deseret_The_Heber_City_Utah_Anti-Dungeons_and_Dragons_Campaign_of_1980_).
 
 I do not recalling hearing about any of these things when I started playing D&D just a few years later with a couple of high school friends.  But soon after, I happened upon a copy of Jack Chick's
-[Dark Dungeons](https://donotlink.it/mPlXY).
+[Dark Dungeons](https://www.chick.com/products/tract?stk=0046).
 At first, I found it hilariously wrong on so many fronts.  But then I became more alarmed, knowing that my home town had many people who would actually believe this, in fact, almost certainly so, given I found the pamphlet in a local grocery store.  And one friend had informed me a year earlier that I would be going to Hell for not believing his brand of Christianity.  So a good old-fashioned book burning was not out of the realm of possibility. My D&D hobby was not something I talked about at school because I knew it would be just more fuel for ridicule and bullying.  But now I had another reason to keep it to myself; bullying is one thing, but bullying in the name of self-righteous superstition and fear is far more dangerous beast (as
 [some of my ancestors found out]({{<relref "2015-09-30-witch.md">}})).
 

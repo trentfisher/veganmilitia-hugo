@@ -2,7 +2,7 @@
 draft = "false"
 date = "2019-12-10T01:34:56-04:00"
 description = ""
-tags = ["programming", "errors"]
+tags = ["programming", "error"]
 title = "Screenshot dumpster dive"
 topics = []
 +++

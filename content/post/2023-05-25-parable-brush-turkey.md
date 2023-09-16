@@ -3,7 +3,7 @@ draft = "false"
 date = "2023-05-25T10:57:42-04:00"
 publishdate = "2023-05-25T10:57:42-04:00"
 description = ""
-tags = ["computers", "programming", "automation"]
+tags = ["computer", "programming", "automation"]
 title = "The Parable of the Brush Turkey"
 topics = []
 +++
