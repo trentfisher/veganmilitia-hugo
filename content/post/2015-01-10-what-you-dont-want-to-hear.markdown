@@ -33,5 +33,5 @@ Furthermore, he leaves out one big detail. Water. What are these cows drinking? 
 
 And I noticed an interesting verbal sleight of hand near the end of his talk.  When showing a map of all the arid areas of the planet, he claims that "only animals can feed people from about 95% of the land". Given the context, I know that when he said "the land" he meant the arid land in his chart, not the whole earth. But, I suspect that some people, too busy salivating at the thought of being able to eat all the meat they want with a clear conscience, may hear it the other way. However, even in context that is quite a generalization.  If we rephrase that statement we can see how ridiculous it is: "Of all the thousands of edible plant species there are _none_ which can produce yields on 95% these arid lands."  Really?
 
-Actually, there is a third key point of his talk: killing 40,000 elephants is a horrendously stupid act.  While it's possible he pulled his head out after that one, I'm not sticking around to find out.
+Actually, there is a third key point of his talk: killing 40,000 elephants is a horrendously stupid act.  While it's possible he pulled his head out after that one, I'm not sticking around to find out.
 

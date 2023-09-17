@@ -10,7 +10,7 @@ wordpress_id: 645
 ---
 
 On Facebook someone posted an article about gardening tasks for March.  I thought that was, at first glance, a cruel joke.  Here's what my garden looks like right now:
-{{<img src="garden.jpg" >}}
+{{<img src="2015-03-04-gardening-in-march.png" >}}
 
 
 Nothing is going to happen there for a while!  Of course, I did just get out my soil blockers in preparation for seed starting.  That and dreaming are about the only garden-related things taking place just now.

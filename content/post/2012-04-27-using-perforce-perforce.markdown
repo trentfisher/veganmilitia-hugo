@@ -40,7 +40,7 @@ There are none? Obviously we have "client" sharing going on (I'll leave that for
     Invalid option: -u.
 
 
-That's fine, I can use grep, even though it could be imprecise.  For example, imagine that we had a person named James Ava, greping for "java" could yield countless false positives.  Nevertheless, forging ahead:
+That's fine, I can use grep, even though it could be imprecise.  For example, imagine that we had a person named James Ava, greping for "java" could yield countless false positives.  Nevertheless, forging ahead:
 
     
     $ p4 opened -a | grep jdoe
@@ -56,8 +56,8 @@ Sure enough, the client "goose" is owned by a different person who is active, so
     You don't have permission for this operation.
 
 
-What?! I am the _administrator_. **_Super_ user**. I have permission to do anything!  So here we get to my usual pet peeve: lousy error messages. Even if we took the error message at face value, it is unhelpful since it doesn't say what permission I need (besides "super", that is). But the error message is undoubtedly incorrect, it is more likely that the server is refusing for some unrelated reason, but, due to poor programming, that generic error message is displayed.
+What?! I am the _administrator_. **_Super_ user**. I have permission to do anything!  So here we get to my usual pet peeve: lousy error messages. Even if we took the error message at face value, it is unhelpful since it doesn't say what permission I need (besides "super", that is). But the error message is undoubtedly incorrect, it is more likely that the server is refusing for some unrelated reason, but, due to poor programming, that generic error message is displayed.
 
-Of course, even if that latter command worked it begs the question, why do I have to do all this menial work?  This should all be rolled into a single command.  It could be rolled into a script if the "revert" command, above, worked correctly.
+Of course, even if that latter command worked it begs the question, why do I have to do all this menial work?  This should all be rolled into a single command.  It could be rolled into a script if the "revert" command, above, worked correctly.
 
-I want those two hours of my life back.  I could have used them more profitably working on [the Perforce to SVN converter](http://p42svn.tigris.org/), and using it to get people off Perforce.
+I want those two hours of my life back.  I could have used them more profitably working on [the Perforce to SVN converter](http://p42svn.tigris.org/), and using it to get people off Perforce.

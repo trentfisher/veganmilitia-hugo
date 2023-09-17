@@ -27,7 +27,7 @@ Graham Burnett has published a new book called the [Vegan Book of Permaculture](
 
 
 
-![JPEG - 28.8 kb](http://ift.tt/1wgSn6m)
+![JPEG - 28.8  kb](http://ift.tt/1wgSn6m)
 
 
 

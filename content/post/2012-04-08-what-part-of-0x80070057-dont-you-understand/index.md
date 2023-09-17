@@ -18,6 +18,6 @@ tags:
 
 Another nice one from Thunderbird:
 
-http://picasaweb.google.com/trent.a.fisher/Errors#5538109356589386498
+{{<img src="tbird-ldap-err.png" >}}
 
-The hex number is a nice touch: provide the illusion of being specific and helpful while not actually doing so. The suggestion to contact a system administrator is a good one, as misery loves company.
+The hex number is a nice touch: provide the illusion of being specific and helpful while not actually doing so. The suggestion to contact a system administrator is a good one, as misery loves company.

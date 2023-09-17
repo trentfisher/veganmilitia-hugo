@@ -16,4 +16,4 @@ tags:
 - vegan
 ---
 
-I'm not sure why I didn't think of this earlier, but I just put [Defensive Omnivore Bingo](http://veganmilitia.org/bingo/) onto [GitHub](https://github.com/trentfisher/veganbingo).  So if you have any contributions, feel free to send me a pull request.  Of course, email still works.
+I'm not sure why I didn't think of this earlier, but I just put [Defensive Omnivore Bingo](http://veganmilitia.org/bingo/) onto [GitHub](https://github.com/trentfisher/veganbingo).  So if you have any contributions, feel free to send me a pull request.  Of course, email still works.

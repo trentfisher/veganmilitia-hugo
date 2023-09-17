@@ -17,6 +17,6 @@ tags:
 
 Here's one from Chrome:
 
-http://picasaweb.google.com/trent.a.fisher/Errors#5538109210405397970
+{{<img src="chrome_error.png">}}
 
-Cute icon!  Funny phrase!  I guess those are supposed to distract us from the total uselessness of the error message.
+Cute icon!  Funny phrase!  I guess those are supposed to distract us from the total uselessness of the error message.
