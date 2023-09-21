@@ -3,7 +3,7 @@ baseurl = "http://veganmilitia.org/b2"
 theme = "hugo-xmin"
 copyright = "Copyright 2008-2023. All rights reserved."
 
-googleAnalytics = "G-QDDGL4RPEQ"
+#googleAnalytics = "G-QDDGL4RPEQ"
 disqusShortname = "veganmilitia"
 relativeurls = true
 canonifyurls = true
