@@ -42,10 +42,10 @@ enableRobotsTXT = true
 [params.social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "trent@cs.pdx.edu"
-  facebook = "trent.a.fisher@gmail.com"
+#  twitter = "trent@cs.pdx.edu"
+#  facebook = "trent.a.fisher@gmail.com"
 #  instagram = "*"
   github = "trentfisher"
   stackoverflow = "trent"
   linkedin = "trent@cs.pdx.edu"
-
+  mastodon = "https://dice.camp/@trent"
