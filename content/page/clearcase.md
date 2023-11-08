@@ -236,7 +236,9 @@ This is a classic case of not following the maxim "if it ain't broke, don't fix 
 ## Miscelany
 
 * Giving the option -nma to checkout fails on non-replicated vobs.  The logical thing to do is just ignore it in that case, possibly with a warning.  Failing is dumb.
+```
  cleartool: Error: Nonmastered checkouts are not permitted in unreplicated VOBs; pathname: "L:/ccperf_sdc78322svod_tfisher//cm_test_sun/somefile.cpp"
+ ```
 * ct desc /vobs/somevob@@ fails but ct desc /vobs/somevob/.@@ works!
 * There is no way to find out the physical path of a file on windows (though ct dump seems to know)
 * No API!
