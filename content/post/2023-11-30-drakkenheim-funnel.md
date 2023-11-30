@@ -1,20 +1,20 @@
 +++
 date = "2023-11-30T10:41:53-05:00"
 description = ""
-draft = true
+draft = false
 tags = ["dnd", "drakkenheim", "a5e"]
 title = "Escape From Drakkenheim"
 topics = []
 +++
 
-A few weeks ago I listened to [Mike Shea talk about running a Ravenloft "funnel" for Halloween](https://slyflourish.podbean.com/e/run-i6-ravenloft-with-shadowdark/).  And then one of my players in my newly started Drakkenheim campaign had written up an elaborate backstory which had his character escaping from Drakkenheim as the meteor hit the city.  As with peanut butter and chocolate, these two should go together quite well.
+A few weeks ago I listened to [Mike Shea talk about running a Ravenloft "funnel" for Halloween](https://slyflourish.podbean.com/e/run-i6-ravenloft-with-shadowdark/).  And around the same time one of the players in my newly started [Drakkenheim](https://ghostfiregaming.com/dungeons-of-drakkenheim/) campaign had written up an elaborate backstory which had his character escaping from Drakkenheim as the meteor hit the city.  As with peanut butter and chocolate, these two should go together quite well.
 
 So first I need a way to generate a bunch of level 0 A5E characters.  I have done some searching, but have not found anything yet.  I may end up writing a tool, stay tuned.
 
-I will do more research but it seems that it would go like this: have a pile of pregenerated characters, hand out one to each player.  Roll initiative, the entire thing will be done in rounds.
+I will do more research but it seems that it would go like this: have a pile of pregenerated characters, hand out one to each player.  Roll initiative, the entire thing will be done in rounds (much like [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark)).
 
 I am still trying to decide if I should have just one giant table, or split it apart into a table of encounters and a table of scenery.  I am leaning towards the former in the interests of simplicity:  one roll each round.
-But regardless, roll d100 plus the number of rounds.  The encounter table will be laid out to escalate, more difficult encounters are located at the end of the table, which will obviously go well past 100.  Paint the scene, and run the encounter.
+But regardless, roll d100 plus the number of rounds played.  The encounter table will be laid out to escalate, more difficult encounters are located at the end of the table, which will obviously go well past 100.  Paint the scene, and run the encounter.
 
 If a character dies, the player will grab a new one, and play proceeds.
 
