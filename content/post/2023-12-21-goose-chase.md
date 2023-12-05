@@ -1,7 +1,7 @@
 +++
-date = "2023-05-19T10:37:42-04:00"
+date = "2023-12-21T00:37:42-04:00"
 description = ""
-draft = true
+draft = false
 tags = ["computers", "programming", "automation", "error"]
 title = "Wild Goose Chase"
 topics = []
