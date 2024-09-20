@@ -2,5 +2,5 @@
 {{- with .Parent -}}
   <img src="{{.Page.RelPermalink}}{{$src}}" class="{{.Get "class"}}-image">
 {{- else -}}
-  <img src="{{.Page.RelPermalink}}{{$src}}">
+  <img src="{{.Page.RelPermalink}}{{$src}}" alt="{{.Get "alt"}}" style="{{.Get "style"}}">
 {{- end }}

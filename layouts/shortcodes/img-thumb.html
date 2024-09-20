@@ -1,0 +1,7 @@
+{{- $src := .Get "src" -}}
+{{- with .Parent -}}
+<img src="{{.Page.RelPermalink}}{{$src}}" class="{{.Get "class"}}-image">
+{{- else -}}
+  <div style="clear:both" />
+  <a href="{{.Page.RelPermalink}}{{$src}}" target="_blank"><img src="{{.Page.RelPermalink}}{{$src}}" alt="{{.Get "alt"}}" style="float: right; height: 170px; padding: 1px"></a>
+{{- end }}
