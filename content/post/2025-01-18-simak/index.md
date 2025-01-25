@@ -3,7 +3,7 @@ draft = "false"
 date = "2025-01-18T00:00:00-05:00"
 publishdate = "2025-01-18T00:00:00-05:00"
 description = ""
-tags = ["books", "science fiction", "fantasy", "dnd"]
+tags = ["books", "science fiction", "fantasy", "dnd", "genealogy"]
 title = "The Goblin Reservation"
 topics = []
 +++
@@ -18,7 +18,7 @@ The first time I played D&D the DM put the giant map of the [City State of the I
 
 I have just finished the book and it was a fun read.  Simak clearly did not believe in the division between science fiction and fantasy, and he gleefully mixed them all up, but somehow still kept it a believable, compelling story.  This mashup reminded me of some D&D adventures with similar genre jumbles, like the classic [Expedition to the Barrier Peaks](https://en.wikipedia.org/wiki/Expedition_to_the_Barrier_Peaks) or some [Judges Guild](https://en.wikipedia.org/wiki/Judges_Guild) adventures.
 
-Yet another coincidence is that Simak was born the same year as my grandmother, and both of them had fathers who emigrated from Bohemia.  Further, he was born and raised in the same county where my grandmother also spent her early years (from 1910 to 1926) about 30 miles away from each other.  Furthermore, when I saw his photo on Wikipedia, I was immediately saw a resemblance to my uncles on the Czech side of the family.
+Yet another coincidence is that Simak was born the same year as my grandmother, and both of them had fathers who emigrated from Bohemia.  Further, he was born and raised in the same county where my grandmother also spent her early years (from 1910 to 1926) about 30 miles away from each other.  Furthermore, when I saw his photo on Wikipedia, I was immediately saw a resemblance to my uncles on the Czech side of the family.  But on the other hand, [his mother](https://www.werelate.org/wiki/Person:Margaret_Wiseman_%287%29) descends from early settlers in New England, and it appears we are 9th cousins, maybe less.  In the course of finding that, I noticed that one of his great uncles lived in Lake Geneva, WI.
 
 So for all these reasons, I feel an odd connection with Simak, and his works will be on my to read list for some time.  Let me know what I should read next.
 
