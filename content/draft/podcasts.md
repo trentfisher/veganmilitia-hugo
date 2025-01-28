@@ -26,10 +26,10 @@ https://en.wikipedia.org/wiki/History_of_podcasting
 
 https://en.wikipedia.org/wiki/Morning_Sedition 
 
-veganfreak 
-started in 2005
-found in 2006 
-via gary francione interview
+Sometime around 2006, after a concert of the band "Fruit", I went to get a CD and one of the band members saw my vegan tshirt and suggested I read Peter Singer.  That triggered a memory and when I got home I looked for interviews with Gary Francione.  I found the Veganfreak podcast's interview with him, and I listened to that podcast regularily ever since.  I think this marks the start of me actively seeking out and regularly listening to podcasts, but with several different software packages.
+
+NPR One
+
 
 | podcast | when | notes |
 | ------- | ---- | ----- |
@@ -44,3 +44,6 @@ via gary francione interview
 | The Bunker | | |
 | [The Constant: A History of Getting Things Wrong](https://www.constantpodcast.com) | | |
 | [The Lazy RPG Podcast](https://slyflourish.podbean.com) | | |
+| Uncivil | 2017 | An excellent podcast about the Civil War |
+| Unobscured (first season) | 2018 | The first season is a detailed account of the Salem Witch Trials |
+
