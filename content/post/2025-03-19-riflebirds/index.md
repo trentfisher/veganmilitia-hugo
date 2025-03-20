@@ -28,4 +28,6 @@ One day, years ago, I searched for them on the web, which was a bit tricky as an
 
 However, last week I get an email that they released a single, [Sometime Somewhere](https://www.reverbnation.com/TheRiflebirds/song/34896066-sometime-somewhere-long-fade) (more versions at [bandcamp](https://theriflebirdsofportland.bandcamp.com/album/sometime-somewhere)) and an album will follow!  This is the best news I have gotten for a long time!  Go check them out!
 
+I discovered that their new track is on Amazon music, and they force you to their shitty shuffle (I am writing up something about that) but in this case, after playing the Riflebirds it played Dar William's song "As Cool As I Am" which was quite a coincidence, as I always thought Dar should do a cover of "The Rain".
+
 [Note: I had this article mostly written years ago, but never could think how to bring it to a close.  But the band fixed that for me!]
