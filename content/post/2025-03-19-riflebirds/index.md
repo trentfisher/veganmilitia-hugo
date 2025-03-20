@@ -12,7 +12,7 @@ Anybody who knows me, knows that I have tasten which run towards that which is o
 One day (again, in the late '80s) I spotted a small write up about a local band called The Riflebirds and that they were playing at the Dublin Pub.  I was getting together with a bunch of friends and I talked them into going there for the next show.  I was immediately taken with the band, and went out to buy their new album.
 
 
-({< img-thumb src="20230907_203916.jpg" alt="The Riflebirds tape April, complete with receipt">}}
+{{< img-thumb src="20230907_203916.jpg" alt="The Riflebirds tape April, complete with receipt">}}
 
 Sadly, the band broke up shortly afterwards.  I think I went to their final show a few months later.
 
