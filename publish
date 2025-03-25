@@ -65,6 +65,7 @@ do
         else
             perl -ne 'BEGIN { print "+++\n"; } if (/^\+\+\+/ and not $seen{$_}++) { } elsif (/^(\w+)\s*=\s*/) { !$seen{$1}++ && print } else {print}' > /tmp/pp$$
             cp /tmp/pp$$ $pubfile && rm /tmp/pp$$
+            mv $draft $draft.bak
         fi
 done
 
