@@ -2,8 +2,7 @@
 draft = "false"
 date = "2025-04-06T17:12:50-04:00"
 publishdate = "2025-04-06T17:12:50-04:00"
-author = trent
-title =  What's the reverse of "pump and dump"?
+title =  'What's the reverse of "pump and dump"?'
 tags = ["politics", "corruption"]
 +++
 
