@@ -1,6 +1,11 @@
 * Blog notes
 ** usage notes
 how to make hugo do what I want
+*** Create new post
+hugo new content draft/foo.md
+*** Promote/publish draft
+./promote 15-Jul-2024 foo.md
+
 *** Links to other posts
 Like this:
 [ancestors]({{<relref "2015-09-30-witch.md">}})

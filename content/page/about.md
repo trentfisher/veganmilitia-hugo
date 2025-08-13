@@ -18,7 +18,9 @@ My fossilized web pages can be seen at [http://www.cs.pdx.edu/~trent](http://www
 Here are some other places you can find me:
 
 * [GitHub](https://github.com/trentfisher)
+* [Werelate](https://www.werelate.org/wiki/User:Trentf)
 * [Mastodon](https://dice.camp/@trent)
+* [Lemmy](https://vegantheoryclub.org/u/trent)
 * [StartPlaying](https://startplaying.games/gm/trent)
 * [my reading list](https://docs.google.com/spreadsheets/d/1v61Fkm4171wrBZuY32y-h2ZX_2ldl50AV0ZoK0hrTCE/edit?usp=sharing).
 * Twitter -- I abandoned it because I am neither a nazi or techbro sycophant.
