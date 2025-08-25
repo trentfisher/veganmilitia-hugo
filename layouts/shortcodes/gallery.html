@@ -1,0 +1,21 @@
+<div class="gallery" style="">
+{{- range .Page.Resources.ByType "image" -}}
+  {{- $origimg := . -}}
+<!-- Got image {{$origimg.MediaType}} {{$origimg.Name}} {{ $origimg.ResourceType }} {{$origimg.Height}}x{{$origimg.Width}} -->
+  {{- $thumb := $origimg -}}
+  {{- if lt .Height .Width -}}
+     <!-- wide image -->
+    {{- $thumb = .Process "resize 256x wepb" -}}
+  {{- else -}}
+     <!-- tall image -->
+    {{- $thumb = .Process "resize x256 wepb" -}}
+  {{- end -}}
+<!--   thumbnail {{$thumb.MediaType}} {{$thumb.Name}} {{ $thumb.ResourceType }} {{$thumb.Height}}x{{$thumb.Width}} -->
+  <div style="display: inline-block; border: 1px solid black; width: 256px; height: 256px">
+    <a href="{{$.Page.RelPermalink}}{{$origimg}}" target="_blank">
+    <img src="data:{{ $thumb.MediaType.Type }};base64,{{ $thumb.Content | base64Encode }}" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 0;" alt="{{$origimg.Exif.Tags.Description}}">
+  </a></div>
+{{- else -}}
+  NO IMAGES TO DISPLAY
+{{- end -}}
+</div>

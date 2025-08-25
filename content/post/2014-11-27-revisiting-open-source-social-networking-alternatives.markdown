@@ -32,14 +32,14 @@ reifman writes Upstart social networking startup Ello burst on the scene in Sept
 [![](http://ift.tt/1rivt1k)](http://ift.tt/11YTqOR)  
 [![](http://ift.tt/11YTr5o)](http://ift.tt/1rivt1r)  
   
-[![](http://ift.tt/1rivthQ)](http://ift.tt/11YTqhS)![](http://ift.tt/11YTqhV)![](http://ift.tt/1yctWdL) <del>  
+[![](http://ift.tt/1rivthQ)](http://ift.tt/11YTqhS)![](http://ift.tt/11YTqhV)![](http://ift.tt/1yctWdL)
   
   
 [![](http://ift.tt/1yctWdy)](http://ift.tt/1vcfVKT)  
 [![](http://ift.tt/1yctWdA)](http://ift.tt/1vcfXm3)  
 [![](http://ift.tt/1yctWdC)](http://ift.tt/1vcfXm5)  
   
-[![](http://ift.tt/1yctWdH)](http://ift.tt/1vcfXCm)![](http://ift.tt/1vcfW1m)![](http://ift.tt/1yctWdL)</del>  
+[![](http://ift.tt/1yctWdH)](http://ift.tt/1vcfXCm)![](http://ift.tt/1vcfW1m)![](http://ift.tt/1yctWdL)
   
 
 A good survey of the options.  I've been on diaspora for years, but its a lonely place.  
