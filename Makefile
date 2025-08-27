@@ -2,7 +2,7 @@
 # theoretically anything I want to do with the site
 # can be done via targets in here
 
-HUGOVER=0.112.3
+HUGOVER=0.148.2
 ifeq ($(shell uname -p),i686)
 HUGO_DL=https://github.com/gohugoio/hugo/releases/download/v$(HUGOVER)/hugo_$(HUGOVER)_Linux-32bit.tar.gz
 else

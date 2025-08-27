@@ -39,4 +39,4 @@ http://www.cs.utexas.edu/users/EWD/ewd13xx/EWD1304.PDF
 
 I would therefore like to posit that computing's central challenge, viz. "How not to make a mess of it", has _not_ been met.  On the contrary, most of our systems are much more complicated than can be considered healthy, and are too messy and chaotic to be used in comfort and confidence.  The average customer of the computing industry has been served so poorly that he expects his system to crash all the time, and we witness a massive world-wide distribution of bug-ridden software for which we should be deeply ashamed.
 
-[witchcraft]({{<relref " 2019-10-08-witchcraft.md">}})  
+[witchcraft]({{<relref "2019-10-08-witchcraft.md">}})  

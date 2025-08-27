@@ -7,7 +7,7 @@ copyright = "Copyright 2008-2023. All rights reserved."
 disqusShortname = "veganmilitia"
 relativeurls = true
 canonifyurls = true
-paginate = 17
+pagination.pagerSize = 17
 #enableGitInfo = true
 enableRobotsTXT = true
 

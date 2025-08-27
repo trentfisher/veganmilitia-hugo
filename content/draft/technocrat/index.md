@@ -2,7 +2,7 @@
 author: trent
 comments: true
 draft: true
-date: 2025-04-30 05:39:09+00:00
+date: 2025-06-30 05:39:09+00:00
 title: Card-Carrying Technocrat
 tags:
 - technocrat
