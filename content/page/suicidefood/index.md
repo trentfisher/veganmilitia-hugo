@@ -1,8 +1,8 @@
 ---
 author: trent
 comments: true
-draft: true
-date: 2025-08-27 09:39:09+00:00
+draft: false
+date: 2025-09-03 19:31:09+00:00
 title: Suicide Food!
 tags:
 - vegan
