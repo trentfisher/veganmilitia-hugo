@@ -15,6 +15,8 @@ Another Update: It is now mid 2010 and no sign of version 8.0, and version 7.1 b
 
 Final Update (July 2022): A reorg at my company moved me out of the team maintaining ClearCase so I no longer touch it.
 
+Not Final Update (Oct 2025):  Another reorg laid off the last ClearCase admin, and two managers above him, so I returned to doing ClearCase admin, with a crumbling and poorly-documented infrastructure.
+
 ## Performance
 
 If I had a nickel for every time someone complained to me about ClearCase performance I could have retired by now.  The network architecture of ClearCase assumes that all users will be accessing the vob server via a high-speed local LAN.  This is because most ClearCase operations require a **huge** number of round-trips between the vob server and the client.
@@ -232,6 +234,14 @@ Here is a little error message "hall of shame":
 I had high hopes for post 7.0 versions after attending the IBM Rational User's conference in Jun 2007, though their predictions of future releases was overly optimistic.  But upon getting version 7.1 I found the installer had been replaced by a new installer, which was a confusing mess.  All the initial documentation seemed to assume that all installations would be done via a UI, which seems to indicate they forgot that most people have headless servers.  The documentation on how to set up release areas and set up "silent installs" is hopelessly scattered and confusing.  It is telling that the best information I have found about this comes from outside IBM.
 
 This is a classic case of not following the maxim "if it ain't broke, don't fix it."  The old installer may have been a bit klunky but it **worked**!  I'm betting this is the work of some clueless pointy-haired IBM executive who demanded that ClearCase be brought into conformance with other IBM products.  To what degree this effort has distracted engineers from actually improving the product has yet to be seen, since a year after 7.1 was released, my team has just now gotten an installation to work, and are nowhere near figuring out how to deploy this to production servers.
+
+## Security
+
+I already mentioned the poor security with triggers, but the basic infrastructure of ClearCase is almost impossible to secure.  The basic architecture is a nightmare from a security perspective.  Everything is unencrypted (though perhaps SMB and NFS could be configured with encryption), and it uses random ports above 1024.  Before you say, "oh but clients will always use random ports", I am talking about the server side.  The way it works is that the client will send a request to ALBD on port 373, and for most requests it will then respond with a port number, on which the server is awaiting the client to connect.
+
+Every time I have told internal security teams about this, they do a google search and find a page which tells them to set CLEARCASE_MIN_PORT and CLEARCASE_MAX_PORT.  But that page is somewhere between misleading and wrong.  I have repeatedly tested this, **it does not work**, except for the MultiSite shipping server.
+
+So this means any firewall, or, indeed any blocked port, between the client and server will break ClearCase.  For example, many years ago the IT department blocked several ports used by viruses/worms.  Every now and then the random port selection above would select that port.  At which point the client would time out.  Repeating the command would work.  It was very non-deterministic.  In order to work around this, I wrote a simple perl script to hold those ports open on the server, which would prevent ALBD from trying to use them.
 
 ## Miscelany
 
