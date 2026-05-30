@@ -2,9 +2,9 @@
 draft = "false"
 date = "2015-10-20T00:00:00-04:00"
 publishdate = "2015-10-20T00:00:00-04:00"
-Categories = ["Development", "GoLang"]
+Categories = ["genealogy", "gedcom", "werelate"]
 Description = ""
-Tags = ["Development", "golang"]
+Tags = ["genealogy", "gedcom", "werelate"]
 title = "On Walled Gardens"
 
 +++
