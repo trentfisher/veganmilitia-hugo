@@ -14,7 +14,7 @@ I buy you books and all you do is eat the covers
 
 Hey, stop kicking my dog
 
-Time all dogs are dead, don't you feel sick
+Time all dogs are dead, don't you feel sick?
 
 I'll turn you inside out and make a Mexican out of you
 
